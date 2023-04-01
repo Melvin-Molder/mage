@@ -48096,7 +48096,7 @@ Tiller of Flesh|March of the Machine|44|U|{3}{W}|Creature - Phyrexian Knight|2|4
 Zhalfirin Lancer|March of the Machine|45|U|{2}{W}|Creature - Human Knight|3|3|Whenever another Knight enters the battlefield under your control, Zhalfirin Lancer gets +1/+1 and gains vigilance until end of turn.|
 Astral Wingspan|March of the Machine|48|U|{4}{U}|Enchantment - Aura|||Convoke$Enchant creature$When Astral Wingspan enters the battlefield, draw a card.$Astral Wingspan gets +2/+2 and has flying.|
 Captive Weird|March of the Machine|49|U|{U}|Creature - Weird|1|3|Defender${3}{R/P}: Transform Captive Weird. Activate only as a sorcery.|
-Completed Conjurer|March of the Machine|49|U||Creature - Phyrexian Weird|3|3|When this creature transforms into Completed Conjurer, exile the top card of your library. Until the end of your next turn, you may play that$card.|
+Compleated Conjurer|March of the Machine|49|U||Creature - Phyrexian Weird|3|3|When this creature transforms into Compleated Conjurer, exile the top card of your library. Until the end of your next turn, you may play that$card.|
 Change the Equation|March of the Machine|50|U|{1}{U}|Instant|||Choose one --$* Counter target spell with mana value 2 or less.$* Counter target red or green spell with mana value 6 or less.|
 Chrome Host Seedshark|March of the Machine|51|R|{2}{U}|Creature - Phyrexian Shark|2|4|Flying$Whenever you cast a noncreature spell, incubate X, where X is that spell's mana value.|
 Faerie Mastermind|March of the Machine|58|R|{1}{U}|Creature - Faerie Rogue|2|1|Flash$Flying$Whenever an opponent draws their second card each turn, you draw a card.${3}{U}: Each player draws a card.|
