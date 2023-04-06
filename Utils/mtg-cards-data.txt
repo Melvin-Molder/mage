@@ -48120,7 +48120,7 @@ Sunfall|March of the Machine|40|R|{3}{W}{W}|Sorcery|||Exile all creatures. Incub
 Surge of Salvation|March of the Machine|41|U|{W}|Instant|||You and permanents you control gain hexproof until end of turn. Prevent all damage that black and/or red sources would deal to creatures you control this turn.|
 Swordsworn Cavalier|March of the Machine|42|C|{1}{W}|Creature - Human Knight|3|1|Swordsworn Cavalier has first strike as long as another Knight entered the battlefield under your control this turn.|
 Tarkir Duneshaper|March of the Machine|43|C|{W}|Creature - Dog Warrior|1|2|{4}{G/P}: Transform Tarkir Duneshaper. Activate only as a sorcery.|
-Tarnished Dunestomper|March of the Machine|43|C||Creature - Phyrexian Dog Warrior|4|3|Trample|
+Burnished Dunestomper|March of the Machine|43|C||Creature - Phyrexian Dog Warrior|4|3|Trample|
 Tiller of Flesh|March of the Machine|44|U|{3}{W}|Creature - Phyrexian Knight|2|4|Whenever you cast a spell that targets one or more permanents, incubate 2.|
 Zhalfirin Lancer|March of the Machine|45|U|{2}{W}|Creature - Human Knight|3|3|Whenever another Knight enters the battlefield under your control, Zhalfirin Lancer gets +1/+1 and gains vigilance until end of turn.|
 Artistic Refusal|March of the Machine|46|U|{4}{U}{U}|Instant|||Convoke$Choose one or both --$* Counter target spell.$* Draw two cards, then discard a card.|
