@@ -49919,3 +49919,12 @@ Urza's Power Plant|Commander Masters|1052|C||Land - Urza's Power-Plant|||{T}: Ad
 Urza's Tower|Commander Masters|1053|C||Land - Urza's Tower|||{T}: Add {C}. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} instead.|
 War Room|Commander Masters|1054|R||Land|||{T}: Add {C}.${3}, {T}, Pay life equal to the number of colors in your commanders' color identity: Draw a card.|
 Wastes|Commander Masters|1056|C||Basic Land|||{T}: Add {C}.|
+The Tenth Doctor|Doctor Who|3|M|{3}{U}{R}|Legendary Creature - Time Lord Doctor|3|5|Allons-y! -- Whenever you attack, exile cards from the top of your library until you exile a nonland card. Put three time counters on it. If it doesn't have suspend, it gains suspend.$Timey-Wimey -- {7}: Time travel three times. Activate only as a sorcery.|
+Exterminate!|Doctor Who|68|U|{2}{B}|Sorcery|||Replicate Tap an untapped Dalek you control.$Destroy target creature. Its controller loses 3 life.|
+The Parting of the Ways|Doctor Who|91|R|{4}{R}{R}|Enchantment - Saga|||(As this Saga enters and after your draw$step, add a lore counter. Sacrifice after III.)$I -- Exile the top five cards of your library. For each nonland card exiled this way, put a number of time counters on that card equal to its mana value. If it doesn't have suspend, it gains suspend.$II -- Time travel, then time travel.$III -- For each opponent, destroy up to one target artifact that player controls.|
+TARDIS|Doctor Who|187|U|{2}|Artifact - Vehicle|2|4|Flying$Whenever TARDIS attacks, if you control a Time Lord, the next spell you cast this turn has cascade and you may planeswalk.$Crew 2|
+Plains|Doctor Who|197|C||Basic Land - Plains|||({T}: Add {W}.)|
+Island|Doctor Who|199|C||Basic Land - Island|||({T}: Add {U}.)|
+Swamp|Doctor Who|201|C||Basic Land - Swamp|||({T}: Add {B}.)|
+Mountain|Doctor Who|203|C||Basic Land - Mountain|||({T}: Add {R}.)|
+Forest|Doctor Who|205|C||Basic Land - Forest|||({T}: Add {G}.)|
