@@ -50162,3 +50162,16 @@ Swamp|Doctor Who|201|C||Basic Land - Swamp|||({T}: Add {B}.)|
 Mountain|Doctor Who|203|C||Basic Land - Mountain|||({T}: Add {R}.)|
 Forest|Doctor Who|205|C||Basic Land - Forest|||({T}: Add {G}.)|
 Farewell|Doctor Who|207|R|{4}{W}{W}|Sorcery|||Choose one or more --$* Exile all artifacts.$* Exile all creatures.$* Exile all enchantments.$* Exile all graveyards.|
+Moonshaker Cavalry|Wilds of Eldraine|21|M|{5}{W}{W}{W}|Creature - Spirit Knight|6|6|Flying$When Moonshaker Cavalry enters the battlefield, creatures you control gain flying and get +X/+X until end of turn, where X is the number of creatures you control.|
+Sleight of Hand|Wilds of Eldraine|67|C|{U}|Sorcery|||Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.|
+Ashiok, Wicked Manipulator|Wilds of Eldraine|78|M|{3}{B}{B}|Legendary Planeswalker - Ashiok|5|If you would pay life while your library has at least that many cards in it, exile that many cards from the top of your library instead.$+1: Look at the top two cards of your library. Exile one of them and put the other into your hand.$-2: Create two 1/1 black Nightmare creature tokens with "At the beginning of combat on your turn, if a card was put into exile this turn, put a +1/+1 counter on this creature."$-7: Target player exiles the top X cards of their library, where X is the total mana value of cards you own in exile.|
+Tough Cookie|Wilds of Eldraine|193|U|{1}{G}|Artifact Creature - Food Golem|2|2|When Tough Cookie enters the battlefield, create a Food token.${2}{G}: Target noncreature artifact you control becomes a 4/4 artifact creature until end of turn.${2}, {T}, Sacrifice Tough Cookie: You gain 3 life.|
+Talion, the Kindly Lord|Wilds of Eldraine|215|M|{2}{U}{B}|Legendary Creature - Faerie Noble|3|4|Flying$As Talion, the Kindly Lord enters the battlefield, choose a number between 1 and 10.$Whenever an opponent casts a spell with mana value, power, or toughness equal to the chosen number, that player loses 2 life and you draw a card.|
+Cruel Somnophage|Wilds of Eldraine|222|R|{1}{B}|Creature - Nightmare|*|*|Cruel Somnophage's power and toughness are each equal to the number of creature cards in all graveyards.|
+Can't Wake Up|Wilds of Eldraine|222|R|{1}{U}|Sorcery - Adventure|*|*|Target player mills four cards.|
+Restless Fortress|Wilds of Eldraine|259|R||Land|||Restless Fortress enters the battlefield tapped.${T}: Add {W} or {B}.${2}{W}{B}: Restless Fortress becomes a 1/4 white and black Nightmare creature until end of turn. It's still a land.$Whenever Restless Fortress attacks, defending player loses 2 life and you gain 2 life.|
+Plains|Wilds of Eldraine|262|C||Basic Land - Plains|||({T}: Add {W}.)|
+Island|Wilds of Eldraine|263|C||Basic Land - Island|||({T}: Add {U}.)|
+Swamp|Wilds of Eldraine|264|C||Basic Land - Swamp|||({T}: Add {B}.)|
+Mountain|Wilds of Eldraine|265|C||Basic Land - Mountain|||({T}: Add {R}.)|
+Forest|Wilds of Eldraine|266|C||Basic Land - Forest|||({T}: Add {G}.)|
