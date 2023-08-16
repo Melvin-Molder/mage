@@ -50198,3 +50198,5 @@ Island|Wilds of Eldraine|263|C||Basic Land - Island|||({T}: Add {U}.)|
 Swamp|Wilds of Eldraine|264|C||Basic Land - Swamp|||({T}: Add {B}.)|
 Mountain|Wilds of Eldraine|265|C||Basic Land - Mountain|||({T}: Add {R}.)|
 Forest|Wilds of Eldraine|266|C||Basic Land - Forest|||({T}: Add {G}.)|
+Ellivere of the Wild Court|Wilds of Eldraine Commander|2|M|{2}{G}{W}|Legendary Creature - Human Knight|4|4|Whenever Ellivere of the Wild Court enters the battlefield or attacks, create a Virtuous Role token attached to another target creature you control.$Whenever an enchanted creature you control deals combat damage to a player, draw a card.|
+Alela, Cunning Conqueror|Wilds of Eldraine Commander|3|M|{2}{U}{B}|Legendary Creature - Faerie Warlock|2|4|Flying$Whenever you cast your first spell during each opponent's turn, create a 1/1 black Faerie Rogue creature token with flying.$Whenever one or more Faeries you control deal combat damage to a player, goad target creature that player controls.|
