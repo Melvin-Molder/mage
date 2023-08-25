@@ -50346,7 +50346,7 @@ Witchstalker Frenzy|Wilds of Eldraine|159|U|{3}{R}|Instant|||This spell costs {1
 Agatha's Champion|Wilds of Eldraine|160|U|{4}{G}|Creature - Human Knight|4|4|Bargain$Trample$When Agatha's Champion enters the battlefield, if it was bargained, it fights up to one target creature you don't control.|
 Beanstalk Wurm|Wilds of Eldraine|161|C|{4}{G}|Creature - Plant Wurm|5|4|Reach|
 Plant Beans|Wilds of Eldraine|161|C|{1}{G}|Sorcery - Adventure|5|4|You may play an additional land this turn.|
-Bestial Bloodline|Wilds of Eldraine|162|C|{1}{G}|Enchantment|||Enchant creature$Enchanted creature gets +2/+2.${4}{G}: Return Bestial Bloodline from your graveyard to your hand.|
+Bestial Bloodline|Wilds of Eldraine|162|C|{1}{G}|Enchantment - Aura|||Enchant creature$Enchanted creature gets +2/+2.${4}{G}: Return Bestial Bloodline from your graveyard to your hand.|
 Blossoming Tortoise|Wilds of Eldraine|163|M|{2}{G}{G}|Creature - Turtle|3|3|Whenever Blossoming Tortoise enters the battlefield or attacks, mill three cards, then return a land card from your graveyard to the battlefield tapped.$Activated abilities of lands you control cost {1} less to activate.$Land creatures you control get +1/+1.|
 Bramble Familiar|Wilds of Eldraine|164|R|{1}{G}|Creature - Elemental Raccoon|2|2|{T}: Add {G}.${1}{G}, {T}, Discard a card: Return Bramble Familiar to its owner's hand.|
 Fetch Quest|Wilds of Eldraine|164|R|{5}{G}{G}|Sorcery - Adventure|2|2|Mill seven cards, then put a creature, enchantment, or land card from among cards milled this way onto the battlefield.|
