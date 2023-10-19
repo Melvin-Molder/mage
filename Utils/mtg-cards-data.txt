@@ -51004,3 +51004,29 @@ Temple of Deceit|Wilds of Eldraine Commander|170|R||Land|||Temple of Deceit ente
 Temple of Plenty|Wilds of Eldraine Commander|171|R||Land|||Temple of Plenty enters the battlefield tapped.$When Temple of Plenty enters the battlefield, scry 1.${T}: Add {G} or {W}.|
 Temple of the False God|Wilds of Eldraine Commander|172|U||Land|||{T}: Add {C}{C}. Activate only if you control five or more lands.|
 Vitu-Ghazi, the City-Tree|Wilds of Eldraine Commander|173|U||Land|||{T}: Add {C}.${2}{G}{W}, {T}: Create a 1/1 green Saproling creature token.|
+Caesar, Legion's Emperor|Fallout|1|M|{1}{R}{W}{B}|Legendary Creature - Human Soldier|4|4|Whenever you attack, you may sacrifice another creature. When you do, choose two--$* Create two 1/1 red and white Soldier creature tokens with haste that are tapped and attacking.$* You draw a card and you lose 1 life.$* Caesar, Legion's Emperor deals damage equal to the number of creature tokens you control to target opponent.|
+Dogmeat, Ever Loyal|Fallout|2|M|{R}{G}{W}|Legendary Creature - Dog|3|3|hen Dogmeat enters the battlefield, mill five cards, then return an Aura or Equipment card from your graveyard to your hand.$Whenever a creature you control that's enchanted or equipped attacks, create a Junk token.|
+Dr. Madison Li|Fallout|3|M|{U}{R}{W}|Legendary Creature - Human Scientist|2|3|Whenever you cast an artifact spell, you get {E}.${T}, Pay {E}: Target creature gets +1/+0 and gains trample and haste until end of turn.${T}, Pay {E}{E}{E}: Draw a card.${T}, Pay {E}{E}{E}{E}{E}: Return target artifact card from your graveyard to the battlefield tapped.|
+The Wise Mothman|Fallout|4|M|{1}{B}{G}{U}|Legendary Creature - Insect Mutant|3|3|Flying$Whenever The Wise Mothman enters the battlefield or attacks, each player gets a rad counter.$Whenever one or more nonland cards are milled, put a +1/+1 counter on each of up to X target creatures, where X is the number of nonland cards milled this way.|
+Mr. House, President and CEO|Fallout|7|M|{R}{W}{B}|Legendary Artifact Creature - Human|0|4|Whenever you roll a 4 or higher, create a 3/3 colorless Robot artifact creature token. If you rolled 6 or higher, instead create that token and a Treasure token.${4}, {T}: Roll a six-sided die plus an additional six-sided die for each mana from Treasures spent to activate this ability.|
+Gary Clone|Fallout|16|U|{1}{W}|Creature - Human Citizen|1|3|Squad {2}$Whenever Gary Clone attacks, each creature you control named Gary Clone gets +1/+0 until end of turn.|
+Idolized|Fallout|17|R|{1}{W}|Enchantment - Aura|||Enchant Creature$Enchanted creature has "Whenever this creature attacks alone, it gets +X/+X until end of turn, where X is the number of nonland permanents you control."|
+Overencumbered|Fallout|18|R|{1}{W}|Enchantment - Aura|||Enchant opponent$When Overencumbered enters the battlefield, enchanted opponent creates a Clue token, a Food token, and a Junk token.$At the beginning of combat on enchanted opponent's turn, that player may pay {1} for each artifact they control. If they don't, creatures can't attack this combat.|
+Vault 101: Birthday Party|Fallout|28|R|{3}{W}|Enchantment - Saga|||I -- Create a 1/1 white Human Soldier creature token and a Food token.$II, III -- You may put an Aura or Equipment card from your hand or graveyard onto the battlefield. If an Equipment is put onto the battlefield this way, you may attach it to a creature you control.|
+Radstorm|Fallout|37|R|{3}{U}|Instant|||Storm$Proliferate. Green sky at night, ghoul's delight.|
+Feral Ghoul|Fallout|44|R|{2}{B}|Creature Zombie Mutant|2|2|Menace Whenever another creature you control dies, put a +1/+1 counter on Feral Ghoul.$When Feral Ghoul dies, each opponent gets a number of rad counters equal to its power.|
+V.A.T.S.|Fallout|50|R|{2}{B}{B}|Instant|||stack, players can't cast spells or activate abilities that aren't mana abilities.) Choose any number of target creatures with equal toughness. Destroy the chosen creatures.|
+Alpha Deathclaw|Fallout|91|R|{4}{B}{G}|Creature - Lizard Mutant|6|6|Menace, trample$When Alpha Deathclaw enters the battlefield or becomes monstrous, destroy target permanent.${5}{B}{G}: Monstrosity 4.|
+Rex, Cyber-Hound|Fallout|117|R|{1}{W}{U}|Legendary Artifact Creature - Robot Dog|2|2|Whenever Rex, Cyber-Hound deals combat damage to a player, they mill two cards and you get {E}{E}.$Pay {E}{E}: Choose target creature card in a graveyard. Exile it with a brain counter on it. Activate only as a sorcery.$Rex has all activated abilities of all cards in exile with brain counters on them.|
+Intelligence Bobblehead|Fallout|134|U|{3}|Artifact - Bobblehead|||{T}: Add one mana of any color.${5}, {T}: Draw X cards, where X is the number of Bobbleheads you control.|
+Nuka-Cola Vending Machine|Fallout|137|U|{3}|Artifact|||{1}, {T}: Create a Food token.$Whenever you sacrifice a Food, create a tapped Treasure token.|
+Command Tower|Fallout|259|C||Land|||{T}: Add one mana of any color in your commander's color identity.|
+Plains|Fallout|317|C||Basic Land - Plains|||({T}: Add {W}.)|
+Island|Fallout|319|C||Basic Land - Island|||({T}: Add {U}.)|
+Swamp|Fallout|321|C||Basic Land - Swamp|||({T}: Add {B}.)|
+Mountain|Fallout|323|C||Basic Land - Mountain|||({T}: Add {R}.)|
+Forest|Fallout|325|C||Basic Land - Forest|||({T}: Add {G}.)|
+Arcane Signet|Fallout|356|U|{2}|Artifact|||{T}: Add one mana of any color in your commander's color identity.|
+Crucible of Worlds|Fallout|357|M|{3}|Artifact|||You may play lands from your graveyard.|
+Sol Ring|Fallout|359|M|{1}|Artifact|||{T}: Add {C}{C}.|
+Wasteland|Fallout|361|R||Land|||{T}: Add {C}.${T}, Sacrifice Wasteland: Destroy target nonbasic land.|
