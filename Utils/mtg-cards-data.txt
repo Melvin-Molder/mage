@@ -23255,8 +23255,14 @@ Crucible of Fire|Shards of Alara|96|R|{3}{R}|Enchantment|||Dragon creatures you 
 Dragon Fodder|Shards of Alara|97|C|{1}{R}|Sorcery|||Put two 1/1 red Goblin creature tokens onto the battlefield.|
 Dragon's Herald|Shards of Alara|98|U|{R}|Creature - Goblin Shaman|1|1|{2}{R}, {tap}, Sacrifice a black creature, a red creature, and a green creature: Search your library for a card named Hellkite Overlord and put it onto the battlefield. Then shuffle your library.|
 Exuberant Firestoker|Shards of Alara|99|U|{2}{R}|Creature - Human Druid Shaman|1|1|At the beginning of your end step, if you control a creature with power 5 or greater, you may have Exuberant Firestoker deal 2 damage to target player.${tap}: Add {C}.|
-Lord of Atlantis|Special Guests|1|R|{U}{U}|Creature - Merfolk|2|2|Other Merfolk get +1/+1 and have islandwalk. <i>(They can't be blocked as long as defending player controls an Island.)</i>|
 Mana Crypt|Special Guests|17|M|{0}|Artifact|||At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.${T}: Add {C}{C}.|
+Mana Crypt|Special Guests|17a|M|{0}|Artifact|||At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.${T}: Add {C}{C}.|
+Mana Crypt|Special Guests|17b|M|{0}|Artifact|||At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.${T}: Add {C}{C}.|
+Mana Crypt|Special Guests|17c|M|{0}|Artifact|||At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.${T}: Add {C}{C}.|
+Mana Crypt|Special Guests|17d|M|{0}|Artifact|||At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.${T}: Add {C}{C}.|
+Mana Crypt|Special Guests|17e|M|{0}|Artifact|||At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.${T}: Add {C}{C}.|
+Mana Crypt|Special Guests|17f|M|{0}|Artifact|||At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.${T}: Add {C}{C}.|
+Star Compass|Special Guests|18|U|{2}|Artifact|||Star Compass enters the battlefield tapped.${T}: Add one mana of any color that a basic land you control could produce.|
 Angel of Light|Starter 1999|1|U|{4}{W}|Creature - Angel|3|3|Flying, vigilance|
 Breath of Life|Starter 1999|10|U|{3}{W}|Sorcery|||Return target creature card from your graveyard to the battlefield.|
 Goblin Commando|Starter 1999|100|U|{4}{R}|Creature - Goblin|2|2|When Goblin Commando enters the battlefield, it deals 2 damage to target creature.|
