@@ -51695,13 +51695,14 @@ Vault of the Archangel|Lost Caverns of Ixalan Commander|367|R||Land|||{T}: Add {
 Vineglimmer Snarl|Lost Caverns of Ixalan Commander|368|R||Land|||As Vineglimmer Snarl enters the battlefield, you may reveal a Forest or Island card from your hand. If you don't, Vineglimmer Snarl enters the battlefield tapped.${T}: Add {G} or {U}.|
 Voldaren Estate|Lost Caverns of Ixalan Commander|369|R||Land|||{T}: Add {C}.${T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast a Vampire spell.${5}, {T}: Create a Blood token. This ability costs {1} less to activate for each Vampire you control.|
 Windbrisk Heights|Lost Caverns of Ixalan Commander|370|R||Land|||Hideaway 4$Windbrisk Heights enters the battlefield tapped.${T}: Add {W}.${W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.|
-Not on My Watch|Murders at Karlov Manor|28|C|{1}{W}|Instant|||Exile target attacking creature.|
+Not on My Watch|Murders at Karlov Manor|28|U|{1}{W}|Instant|||Exile target attacking creature.|
 Novice Inspector|Murders at Karlov Manor|29|C|{W}|Creature - Human Detective|1|2|When Novice Inspector enters the battlefield, investigate.|
 Wojek Investigator|Murders at Karlov Manor|36|R|{2}{W}|Creature - Angel Detective|2|4|Flying, vigilance$At the beginning of your upkeep, investigate once for each opponent who has more cards in hand than you.|
 Benthic Criminologists|Murders at Karlov Manor|40|C|{4}{U}|Creature - Merfolk Wizard|4|5|Whenever Benthic Criminologists enters the battlefield or attacks, you may sacrifice an artifact. If you do, draw a card.|
 Burden of Proof|Murders at Karlov Manor|42|U|{1}{U}|Enchantment - Aura|||Flash$Enchant creature$Enchanted creature gets +2/+2 as long as it's a Detective you control. Otherwise, it has base power and toughness 1/1 and can't block Detectives.|
 Deduce|Murders at Karlov Manor|52|C|{1}{U}|Instant|||Draw a card. Investigate.|
-Out Cold|Murders at Karlov Manor|66|C|{3}{U}|Instant|||This spell can't be countered. Tap up to two target creatures and put a stun counter on each of them. Investigate.|
+Out Cold|Murders at Karlov Manor|66|C|{3}{U}|Instant|||This spell can't be countered.$Tap up to two target creatures and put a stun counter on each of them. Investigate.|
+Lead Pipe|Murders at Karlov Manor|90|U|{B}|Artifact - Clue Equipment|||Equipped creature gets +2/+0.$Whenever equipped creature dies, each opponent loses 1 life.${2}, Sacrifice Lead Pipe: Draw a card.$Equip {2}|
 Demand Answers|Murders at Karlov Manor|122|C|{1}{R}|Instant|||As an additional cost to cast this spell, sacrifice an artifact or discard a card.$Draw two cards.|
 Shock|Murders at Karlov Manor|144|C|{R}|Instant|||Shock deals 2 damage to any target.|
 Fanatical Strength|Murders at Karlov Manor|159|C|{1}{G}|Instant|||Target creature gets +3/+3 and gains trample until end of turn.|
