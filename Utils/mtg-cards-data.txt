@@ -51695,3 +51695,27 @@ Vault of the Archangel|Lost Caverns of Ixalan Commander|367|R||Land|||{T}: Add {
 Vineglimmer Snarl|Lost Caverns of Ixalan Commander|368|R||Land|||As Vineglimmer Snarl enters the battlefield, you may reveal a Forest or Island card from your hand. If you don't, Vineglimmer Snarl enters the battlefield tapped.${T}: Add {G} or {U}.|
 Voldaren Estate|Lost Caverns of Ixalan Commander|369|R||Land|||{T}: Add {C}.${T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast a Vampire spell.${5}, {T}: Create a Blood token. This ability costs {1} less to activate for each Vampire you control.|
 Windbrisk Heights|Lost Caverns of Ixalan Commander|370|R||Land|||Hideaway 4$Windbrisk Heights enters the battlefield tapped.${T}: Add {W}.${W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.|
+Not on My Watch|Murders at Karlov Manor|28|C|{1}{W}|Instant|||Exile target attacking creature.|
+Novice Inspector|Murders at Karlov Manor|29|C|{W}|Creature - Human Detective|1|2|When Novice Inspector enters the battlefield, investigate.|
+Wojek Investigator|Murders at Karlov Manor|36|R|{2}{W}|Creature - Angel Detective|2|4|Flying, vigilance$At the beginning of your upkeep, investigate once for each opponent who has more cards in hand than you.|
+Benthic Criminologists|Murders at Karlov Manor|40|C|{4}{U}|Creature - Merfolk Wizard|4|5|Whenever Benthic Criminologists enters the battlefield or attacks, you may sacrifice an artifact. If you do, draw a card.|
+Burden of Proof|Murders at Karlov Manor|42|U|{1}{U}|Enchantment - Aura|||Flash$Enchant creature$Enchanted creature gets +2/+2 as long as it's a Detective you control. Otherwise, it has base power and toughness 1/1 and can't block Detectives.|
+Deduce|Murders at Karlov Manor|52|C|{1}{U}|Instant|||Draw a card. Investigate.|
+Out Cold|Murders at Karlov Manor|66|C|{3}{U}|Instant|||This spell can't be countered. Tap up to two target creatures and put a stun counter on each of them. Investigate.|
+Demand Answers|Murders at Karlov Manor|122|C|{1}{R}|Instant|||As an additional cost to cast this spell, sacrifice an artifact or discard a card.$Draw two cards.|
+Shock|Murders at Karlov Manor|144|C|{R}|Instant|||Shock deals 2 damage to any target.|
+Fanatical Strength|Murders at Karlov Manor|159|C|{1}{G}|Instant|||Target creature gets +3/+3 and gains trample until end of turn.|
+Topiary Panther|Murders at Karlov Manor|179|C|{4}{G}{G}|Creature - Plant Cat|6|5|Trample$Basic landcycling {1}{G}|
+Alquist Proft, Master Sleuth|Murders at Karlov Manor|185|M|{1}{W}{U}|Legendary Creature - Human Detective|3|3|Vigilance$When Alquist Proft, Master Sleuth enters the battlefield, investigate.${X}{W}{U}{U}, {T}, Sacrifice a Clue: You draw X cards and gain X life.|
+Aurelia, the Law Above|Murders at Karlov Manor|188|R|{3}{R}{W}|Legendary Creature - Angel|4|4|Flying, vigilance, haste$Whenever a player attacks with three or more creatures, you draw a card.$Whenever a player attacks with five or more creatures, Aurelia, the Law Above deals 3 damage to each of your opponents and you gain 3 life.|
+Curious Cadaver|Murders at Karlov Manor|194|U|{2}{U}{B}|Creature - Zombie Detective|3|1|Flying$When you sacrifice a Clue, return Curious Cadaver from your graveyard to your hand.|
+Gleaming Geardrake|Murders at Karlov Manor|205|U|{U}{R}|Artifact Creature - Drake|1|1|Flying$When Gleaming Geardrake enters the battlefield, investigate.$Whenever you sacrifice an artifact, put a +1/+1 counter on Gleaming Geardrake.|
+Lightning Helix|Murders at Karlov Manor|218|U|{R}{W}|Instant|||Lightning Helix deals 3 damage to any target and you gain 3 life.|
+Meddling Youths|Murders at Karlov Manor|219|U|{3}{R}{W}|Creature - Human Detective|4|5|Haste$Whenever you attack with three or more creatures, investigate.|
+Rakdos, Patron of Chaos|Murders at Karlov Manor|224|M|{4}{B}{R}|Legendary Creature - Demon|6|6|Flying, trample$At the beginning of your end step, target opponent may sacrifice two nonland, nontoken permanents. If they don't, you draw two cards.|
+Magnifying Glass|Murders at Karlov Manor|255|C|{3}|Artifact|||{T}: Add {C}.${4}, {T}: Investigate.|
+Plains|Murders at Karlov Manor|272|C||Basic Land - Plains|||({T}: Add {W}.)|
+Island|Murders at Karlov Manor|273|C||Basic Land - Island|||({T}: Add {U}.)|
+Swamp|Murders at Karlov Manor|274|C||Basic Land - Swamp|||({T}: Add {B}.)|
+Mountain|Murders at Karlov Manor|275|C||Basic Land - Mountain|||({T}: Add {R}.)|
+Forest|Murders at Karlov Manor|276|C||Basic Land - Forest|||({T}: Add {G}.)|
