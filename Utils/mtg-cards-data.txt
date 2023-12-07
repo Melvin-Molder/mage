@@ -51701,6 +51701,7 @@ Wojek Investigator|Murders at Karlov Manor|36|R|{2}{W}|Creature - Angel Detectiv
 Benthic Criminologists|Murders at Karlov Manor|40|C|{4}{U}|Creature - Merfolk Wizard|4|5|Whenever Benthic Criminologists enters the battlefield or attacks, you may sacrifice an artifact. If you do, draw a card.|
 Burden of Proof|Murders at Karlov Manor|42|U|{1}{U}|Enchantment - Aura|||Flash$Enchant creature$Enchanted creature gets +2/+2 as long as it's a Detective you control. Otherwise, it has base power and toughness 1/1 and can't block Detectives.|
 Deduce|Murders at Karlov Manor|52|C|{1}{U}|Instant|||Draw a card. Investigate.|
+Hotshot Investigators|Murders at Karlov Manor|60|C|{5}{U}|Creature - Vedalken Detective|4|4|When Hotshot Investigators enters the battlefield, return up to one other target creature to its owner's hand. If you controlled it, investigate.|
 Out Cold|Murders at Karlov Manor|66|C|{3}{U}|Instant|||This spell can't be countered.$Tap up to two target creatures and put a stun counter on each of them. Investigate.|
 Lead Pipe|Murders at Karlov Manor|90|U|{B}|Artifact - Clue Equipment|||Equipped creature gets +2/+0.$Whenever equipped creature dies, each opponent loses 1 life.${2}, Sacrifice Lead Pipe: Draw a card.$Equip {2}|
 Demand Answers|Murders at Karlov Manor|122|C|{1}{R}|Instant|||As an additional cost to cast this spell, sacrifice an artifact or discard a card.$Draw two cards.|
