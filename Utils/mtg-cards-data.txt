@@ -51722,7 +51722,7 @@ Swamp|Murders at Karlov Manor|274|C||Basic Land - Swamp|||({T}: Add {B}.)|
 Mountain|Murders at Karlov Manor|275|C||Basic Land - Mountain|||({T}: Add {R}.)|
 Forest|Murders at Karlov Manor|276|C||Basic Land - Forest|||({T}: Add {G}.)|
 Senator Peacock|Ravnica: Clue Edition|2|R|{3}{U}{U}|Legendary Creature - Human Advisor|3|4|Artifacts you control are Clues in addition to their other types and have "{2}, Sacrifice this artifact: Draw a card."$Whenever you sacrifice a Clue, target creature can't be blocked this turn.|
-Commander Mustard|Ravnica: Clue Edition|6|R|{3}{R}{W}|Legendary Creature - Human Soldier|5|5|Vigilance$Other Soldiers you control have vigilance, trample, and haste.${2}{R}{W}: Until end of turn, Soldiers you control gain "Whenever this creature attacks, it deals 1 damage to defending player.|
+Commander Mustard|Ravnica: Clue Edition|6|R|{3}{R}{W}|Legendary Creature - Human Soldier|5|5|Vigilance$Other Soldiers you control have vigilance, trample, and haste.${2}{R}{W}: Until end of turn, Soldiers you control gain "Whenever this creature attacks, it deals 1 damage to defending player."|
 Lead Pipe|Ravnica: Clue Edition|9|U|{B}|Artifact - Clue Equipment|||Equipped creature gets +2/+0.$Whenever equipped creature dies, each opponent loses 1 life.${2}, Sacrifice Lead Pipe: Draw a card.$Equip {2}|
 Dining Room|Ravnica: Clue Edition|15|U||Land|||Dining Room enters the battlefield tapped.${T}: Add {R} or {G}.${4}, {T}: Investigate.|
 Hallowed Fountain|Ravnica: Clue Edition|277|R||Land - Plains Island|||({T}: Add {W} or {U}.)$As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don't, it enters the battlefield tapped.|
