@@ -51712,6 +51712,7 @@ Crimestopper Sprite|Murders at Karlov Manor|49|C|{2}{U}|Creature - Faerie Detect
 Deduce|Murders at Karlov Manor|52|C|{1}{U}|Instant|||Draw a card. Investigate.|
 Hotshot Investigators|Murders at Karlov Manor|60|C|{5}{U}|Creature - Vedalken Detective|4|4|When Hotshot Investigators enters the battlefield, return up to one other target creature to its owner's hand. If you controlled it, investigate.|
 Out Cold|Murders at Karlov Manor|66|C|{3}{U}|Instant|||This spell can't be countered.$Tap up to two target creatures and put a stun counter on each of them. Investigate.|
+Case of the Stashed Skeleton|Murders at Karlov Manor|80|R|{1}{B}|Enchantment - Case|||When this Case enters the battlefield, create a 2/1 black Skeleton creature token and suspect it.$To solve -- You control no suspected Skeletons.$Solved -- {1}{B}, Sacrifice this Case: Search your library for a card, put it into your hand, then shuffle. Activate only as a sorcery.|
 Extract a Confession|Murders at Karlov Manor|84|C|{1}{B}|Sorcery|||As an additional cost to cast this spell, you may collect evidence 6.$Each opponent sacrifices a creature. If evidence was collected, instead each opponent sacrifices a creature with the greatest power among creatures they control.|
 Homicide Investigator|Murders at Karlov Manor|86|R|{1}{B}|Creature - Human Detective|2|2|Whenever one or more nontoken creatures you control die, investigate. This ability triggers only once each turn.|
 It Doesn't Add Up|Murders at Karlov Manor|89|U|{3}{B}{B}|Instant|||Return target creature card from your graveyard to the battlefield. Suspect it.|
@@ -51727,6 +51728,7 @@ Felonious Rage|Murders at Karlov Manor|125|C|{R}|Instant|||Target creature you c
 Galvanize|Murders at Karlov Manor|128|C|{1}{R}|Instant|||Galvanize deals 3 damage to target creature. If you've drawn two or more cards this turn, Galvanize deals 5 damage to that creature instead.|
 Knife|Murders at Karlov Manor|134|U|{R}|Artifact - Clue Equipment|||As long as it's your turn, equipped creature gets +1/+0 and has first strike.${2}, Sacrifice Knife: Draw a card.$Equip {2}|
 Krenko, Baron of Tin Street|Murders at Karlov Manor|135|R|{2}{R}|Legendary Creature - Goblin|3|3|Haste${T}, Sacrifice an artifact: Put a +1/+1 counter on each Goblin you control.$Whenever an artifact is put into a graveyard from the battlefield, you may pay {R}. If you do, create a 1/1 red Goblin creature token. It gains haste until end of turn.|
+Pyrotechnic Performer|Murders at Karlov Manor|140|R|{1}{R}|Creature - Viashino Assassin|3|2|Disguise {R}$Whenever Pyrotechnic Performer or another creature you control is turned face up, that creature deals damage equal to its power to each opponent.|
 Shock|Murders at Karlov Manor|144|C|{R}|Instant|||Shock deals 2 damage to any target.|
 Airtight Alibi|Murders at Karlov Manor|149|C|{2}{G}|Enchantment - Aura|||Flash$Enchant creature$When Airtight Alibi enters the battlefield, untap enchanted creature. It gains hexproof until end of turn. If it's suspected, it's no longer suspected.$Enchanted creature gets +2/+2 and can't become suspected.|
 Analyze the Pollen|Murders at Karlov Manor|150|R|{G}|Sorcery|||As an additional cost to cast this spell, you may collect evidence 8.$Search your library for a basic land card. If evidence was collected, instead search your library for a creature or land card. Reveal that card, put it into your hand, then shuffle.|
@@ -51779,11 +51781,11 @@ Shadowy Backstreet|Murders at Karlov Manor|268|R||Land - Plains Swamp|||({T}: Ad
 Thundering Falls|Murders at Karlov Manor|269|R||Land - Island Mountain|||({T}: Add {U} or {R}.)$Thundering Falls enters the battlefield tapped.$When Thundering Falls enters the battlefield, surveil 1.|
 Undercity Sewers|Murders at Karlov Manor|270|R||Land - Island Swamp|||({T}: Add {U} or {B}.)$Undercity Sewers enters the battlefield tapped.$When Undercity Sewers enters the battlefield, surveil 1.|
 Underground Mortuary|Murders at Karlov Manor|271|R||Land - Swamp Forest|||({T}: Add {B} or {G}.)$Underground Mortuary enters the battlefield tapped.$When Underground Mortuary enters the battlefield, surveil 1.|
-Plains|Murders at Karlov Manor|272|C||Basic Land - Plains|||({T}: Add {W}.)|
-Island|Murders at Karlov Manor|273|C||Basic Land - Island|||({T}: Add {U}.)|
-Swamp|Murders at Karlov Manor|274|C||Basic Land - Swamp|||({T}: Add {B}.)|
-Mountain|Murders at Karlov Manor|275|C||Basic Land - Mountain|||({T}: Add {R}.)|
-Forest|Murders at Karlov Manor|276|C||Basic Land - Forest|||({T}: Add {G}.)|
+Plains|Murders at Karlov Manor|277|C||Basic Land - Plains|||({T}: Add {W}.)|
+Island|Murders at Karlov Manor|279|C||Basic Land - Island|||({T}: Add {U}.)|
+Swamp|Murders at Karlov Manor|281|C||Basic Land - Swamp|||({T}: Add {B}.)|
+Mountain|Murders at Karlov Manor|283|C||Basic Land - Mountain|||({T}: Add {R}.)|
+Forest|Murders at Karlov Manor|285|C||Basic Land - Forest|||({T}: Add {G}.)|
 Melek, Reforged Researcher|Murders at Karlov Manor|430|M|{3}{U}{R}|Legendary Creature - Weird Detective|*|*|Melek, Reforged Researcher's power and toughness are each equal to twice the number of instant and sorcery cards in your graveyard.$The first instant or sorcery spell you cast each turn costs {3} less to cast.|
 Tomik, Wielder of Law|Murders at Karlov Manor|431|M|{1}{W}{B}|Legendary Creature - Human Advisor|2|4|Affinity for planeswalkers$Flying, vigilance$Whenever an opponent attacks with creatures, if two or more of those creatures are attacking you and/or planeswalkers you control, that opponent loses 3 life and you draw a card.|
 Voja, Jaws of the Conclave|Murders at Karlov Manor|432|M|{2}{R}{G}{W}|Legendary Creature - Wolf|5|5|Vigilance, trample, ward {3}$Whenever Voja, Jaws of the Conclave attacks, put X +1/+1 counters on each creature you control, where X is the number of Elves you control. Draw a card for each Wolf you control.|
