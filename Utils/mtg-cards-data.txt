@@ -52297,3 +52297,22 @@ Island|Outlaws of Thunder Junction|273|C||Basic Land - Island|||({T}: Add {U}.)|
 Swamp|Outlaws of Thunder Junction|274|C||Basic Land - Swamp|||({T}: Add {B}.)|
 Mountain|Outlaws of Thunder Junction|275|C||Basic Land - Mountain|||({T}: Add {R}.)|
 Forest|Outlaws of Thunder Junction|276|C||Basic Land - Forest|||({T}: Add {G}.)|
+Emrakul, the World Anew|Modern Horizons 3|6|M|{12}|Legendary Creature - Eldrazi|12|12|When you cast this spell, gain control of all creatures target player controls.$Flying, protection from spells and from permanents that were cast this turn$When Emrakul, the World Anew leaves the battlefield, sacrifice all creatures you control.$Madness--Pay six {C}.|
+It That Heralds the End|Modern Horizons 3|9|U|{1}{C}|Creature - Eldrazi Drone|2|2|Colorless spells you cast with mana value 7 or greater cost {1} less to cast.$Other colorless creatures you control get +1/+1.|
+Flare of Cultivation|Modern Horizons 3|154|R|{1}{G}{G}|Sorcery|||You may sacrifice a nontoken green creature rather than pay this spell's mana cost.$Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.|
+Psychic Frog|Modern Horizons 3|199|R|{U}{B}|Creature - Frog|1|2|Whenever Psychic Frog deals combat damage to a player or planeswalker, draw a card.$Discard a card: Put a +1/+1 counter on Psychic Frog.$Exile three cards from your graveyard: Psychic Frog gains flying until end of turn. Some frogs poison the body. Some frogs poison the mind.|
+Scurry of Gremlins|Modern Horizons 3|203|U|{2}{R}{W}|Enchantment|||When Scurry of Gremlins enters the battlefield, create two 1/1 red Gremlin creature tokens. Then you get an amount of {E} equal to the number of creatures you control.$Pay {E}{E}{E}{E}: Creatures you control get +1/+0 and gain haste until end of turn.|
+Bloodstained Mire|Modern Horizons 3|216|R||Land|||{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.|
+Flooded Strand|Modern Horizons 3|220|R||Land|||{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.|
+Polluted Delta|Modern Horizons 3|224|R||Land|||{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.|
+Windswept Heath|Modern Horizons 3|235|R||Land|||{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.|
+Wooded Foothills|Modern Horizons 3|236|R||Land|||{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.|
+Ajani, Nacatl Pariah|Modern Horizons 3|237|M|{1}{W}|Legendary Creature - Cat Warrior|1|2|When Ajani, Nacatl Pariah enters the battlefield, create a 2/1 white Cat Warrior creature token.$Whenever one or more other Cats you control die, you may exile Ajani, then return him to the battlefield transformed under his owner's control.|
+Ajani, Nacatl Avenger|Modern Horizons 3|237|M||Legendary Planeswalker - Ajani|3|+2: Put a +1/+1 counter on each Cat you control.$0: Create a 2/1 white Car Warrior creature token. When you do, if you control a red permanent other than Ajani, Nacatl Avenger, he deals damage equal to the number of creatures you control to any target.$-4: Each opponent chooses an artifact, a creature, an enchantment and a planeswalker from among the nonland permanents they control, then sacrifices the rest.|
+Laelia, the Blade Reforged|Modern Horizons 3|281|R|{2}{R}|Legendary Creature - Spirit Warrior|2|2|Haste$Whenever Laelia, the Blade Reforged attacks, exile the top card of your library. You may play that card this turn.$Whenever one or more cards are put into exile from your library and/or your graveyard, put a +1/+1 counter on Laelia.|
+Priest of Titania|Modern Horizons 3|286|U|{1}{G}|Creature - Elf Druid|1|1|{T}: Add {G} for each Elf on the battlefield.|
+Plains|Modern Horizons 3|304|C||Basic Land - Plains|||({T}: Add {W}.)|
+Island|Modern Horizons 3|305|C||Basic Land - Island|||({T}: Add {U}.)|
+Swamp|Modern Horizons 3|306|C||Basic Land - Swamp|||({T}: Add {B}.)|
+Mountain|Modern Horizons 3|307|C||Basic Land - Mountain|||({T}: Add {R}.)|
+Forest|Modern Horizons 3|308|C||Basic Land - Forest|||({T}: Add {G}.)|
