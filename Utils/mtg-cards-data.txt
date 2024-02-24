@@ -52420,3 +52420,5 @@ Island|Modern Horizons 3|305|C||Basic Land - Island|||({T}: Add {U}.)|
 Swamp|Modern Horizons 3|306|C||Basic Land - Swamp|||({T}: Add {B}.)|
 Mountain|Modern Horizons 3|307|C||Basic Land - Mountain|||({T}: Add {R}.)|
 Forest|Modern Horizons 3|308|C||Basic Land - Forest|||({T}: Add {G}.)|
+Nexus of Becoming|The Big Score|25|M|{6}|Artifact|||At the beginning of combat on your turn, draw a card. Then you may exile an artifact or creature card from your hand. If you do, create a token that's a copy of the exiled card, except it's a 3/3 Golem artifact creature in addition to its other types.|
+Sword of Wealth and Power|The Big Score|26|M|{3}|Artifact- Equipment|||Equipped creature gets +2/+2 and has protection from instants and from sorceries.$Whenever equipped creature deals combat damage to a player, create a Treasure token. When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.$Equip {2}|
