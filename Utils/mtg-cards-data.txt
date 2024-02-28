@@ -52440,3 +52440,113 @@ Sword of Feast and Famine|Assassin's Creed|99|M|{3}|Artifact - Equipment|||Equip
 Haystack|Assassin's Creed|175|U|{1}{W}|Artifact|||{2}, {T}: Target creature you control phases out.|
 Eivor, Battle-Ready|Assassin's Creed|274|M|{3}{R}{W}|Legendary Creature - Human Assassin Warrior|5|5|Vigilance$Haste$Whenever Eivor, Battle-Ready attacks, it deals damage equal to the number of Equipment you control to each opponent.|
 Ezio, Blade of Vengeance|Assassin's Creed|275|M|{3}{U}{B}|Legendary Creature - Human Assassin|5|5|Deathtouch$Whenever an Assassin you control deals combat damage to a player, draw a card.|
+Affectionate Indrik|Arena Beginner Set|89|U|{5}{G}|Creature - Beast|4|4|When Affectionate Indrik enters the battlefield, you may have it fight target creature you don't control.|
+Air Elemental|Arena Beginner Set|23|U|{3}{U}{U}|Creature - Elemental|4|4|Flying|
+Angelic Guardian|Arena Beginner Set|2|R|{4}{W}{W}|Creature - Angel|5|5|Flying$Whenever one or more creatures you control attack, they gain indestructible until end of turn.|
+Angelic Reward|Arena Beginner Set|3|U|{3}{W}{W}|Enchantment - Aura|||Enchant creature$Enchanted creature gets +3/+3 and has flying.|
+Angel of Vitality|Arena Beginner Set|1|U|{2}{W}|Creature - Angel|2|2|Flying$If you would gain life, you gain that much life plus 1 instead.$Angel of Vitality gets +2/+2 as long as you have 25 or more life.|
+Arcane Signet|Arena Beginner Set|117|C|{2}|Artifact|||{T}: Add one mana of any color in your commander's color identity.|
+Armored Whirl Turtle|Arena Beginner Set|24|C|{2}{U}|Creature - Turtle|0|5||
+Bad Deal|Arena Beginner Set|45|U|{4}{B}{B}|Sorcery|||You draw two cards and each opponent discards two cards. Each player loses 2 life.|
+Bombard|Arena Beginner Set|67|C|{2}{R}|Instant|||Bombard deals 4 damage to target creature.|
+Bond of Discipline|Arena Beginner Set|4|U|{4}{W}|Sorcery|||Tap all creatures your opponents control. Creatures you control gain lifelink until end of turn.|
+Burn Bright|Arena Beginner Set|68|C|{2}{R}|Instant|||Creatures you control get +2/+0 until end of turn.|
+Charging Badger|Arena Beginner Set|91|C|{G}|Creature   Badger|1|1|Trample|
+Charmed Stray|Arena Beginner Set|5|C|{W}|Creature - Cat|1|1|Lifelink$Whenever Charmed Stray enters the battlefield, put a +1/+1 counter on each other creature you control named Charmed Stray.|
+Cloudkin Seer|Arena Beginner Set|25|C|{2}{U}|Creature - Elemental Wizard|2|1|Flying$When Cloudkin Seer enters the battlefield, draw a card.|
+Colossal Majesty|Arena Beginner Set|92|U|{2}{G}|Enchantment|||At the beginning of your upkeep, if you control a creature with power 4 or greater, draw a card.|
+Command Tower|Arena Beginner Set|118|C||Land|||{T}: Add one mana of any color in your commander's color identity.|
+Confront the Assault|Arena Beginner Set|6|U|{4}{W}|Instant|||Cast this spell only if a creature is attacking you.$Create three 1/1 white Spirit creature tokens with flying.|
+Coral Merfolk|Arena Beginner Set|26|C|{1}{U}|Creature - Merfolk|2|1||
+Cruel Cut|Arena Beginner Set|47|C|{1}{B}|Instant|||Destroy target creature with power 2 or less.|
+Demon of Loathing|Arena Beginner Set|48|R|{5}{B}{B}|Creature - Demon|7|7|Flying, trample$Whenever Demon of Loathing deals combat damage to a player, that player sacrifices a creature.|
+Epic Proportions|Arena Beginner Set|93|R|{4}{G}{G}|Enchantment - Aura|||Flash$Enchant creature$Enchanted creature gets +5/+5 and has trample.|
+Eternal Thirst|Arena Beginner Set|49|U|{1}{B}|Enchantment - Aura|||Enchant creature$Enchanted creature has lifelink and "Whenever a creature an opponent controls dies, put a +1/+1 counter on this creature."|
+Evolving Wilds|Arena Beginner Set|111|C||Land|||{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.|
+Fearless Halberdier|Arena Beginner Set|69|C|{2}{R}|Creature - Human Warrior|3|2||
+Fencing Ace|Arena Beginner Set|7|C|{1}{W}|Creature - Human Soldier|1|1|Double strike <i>(This creature deals both first-strike and regular combat damage.)</i>|
+Feral Roar|Arena Beginner Set|94|C|{1}{G}|Sorcery|||Target creature gets +4/+4 until end of turn.|
+Frilled Sea Serpent|Arena Beginner Set|27|C|{4}{U}{U}|Creature - Serpent|4|6|{5}{U}{U}: Frilled Sea Serpent can't be blocked this turn.|
+Generous Stray|Arena Beginner Set|95|C|{2}{G}|Creature - Cat|1|2|When Generous Stray enters the battlefield, draw a card.|
+Gigantosaurus|Arena Beginner Set|96|R|{G}{G}{G}{G}{G}|Creature - Dinosaur|10|10||
+Glint|Arena Beginner Set|28|C|{1}{U}|Instant|||Target creature you control gets +0/+3 and gains hexproof until end of turn. <i>(It can't be the target of spells or abilities you opponents control.)</i>|
+Goblin Gang Leader|Arena Beginner Set|70|U|{2}{R}{R}|Creature - Goblin Warrior|2|2|When Goblin Gang Leader enters the battlefield, create two 1/1 red Goblin creature tokens.|
+Goblin Gathering|Arena Beginner Set|71|C|{2}{R}|Sorcery|||Create a number of 1/1 red Goblin creature tokens equal to two plus the number of cards named Goblin Gathering in your graveyard.|
+Goblin Trashmaster|Arena Beginner Set|72|R|{2}{R}{R}|Creature - Goblin Warrior|3|3|Other Goblins you control get +1/+1.$Sacrifice a Goblin: Destroy target artifact.|
+Goblin Tunneler|Arena Beginner Set|73|C|{1}{R}|Creature - Goblin Rogue|1|1|{T}: Target creature with power 2 or less can't be blocked this turn.|
+Goring Ceratops|Arena Beginner Set|8|R|Creature - Dinosaur|3|3|Double strike$Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn.|
+Greenwood Sentinel|Arena Beginner Set|97|C|{1}{G}|Creature - Elf Scout|2|2|Vigilance|
+Hurloon Minotaur|Arena Beginner Set|74|C|{1}{R}{R}|Creature - Minotaur|2|3||
+Ilysian Caryatid|Arena Beginner Set|98|C|{1}{G}|Creature - Plant|1|1|{T}: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.|
+Immortal Phoenix|Arena Beginner Set|75|R|{4}{R}{R}|Creature - Phoenix|5|3|Flying$When Immortal Phoenix dies, return it to its owner's hand.|
+Impassioned Orator|Arena Beginner Set|10|C|{1}{W}|Creature - Human Cleric|2|2|Whenever another creature enters the battlefield under your control, you gain 1 life.|
+Inescapable Blaze|Arena Beginner Set|76|U|{4}{R}{R}|Instant|||This spell can't be countered.$Inescapable Blaze deals 6 damage to any target.|
+Inspiring Commander|Arena Beginner Set|11|R|{4}{W}{W}|Creature - Human Soldier|1|4|Whenever another creature with power 2 or less enters the battlefield under your control, you gain 1 life and draw a card.|
+Jungle Delver|Arena Beginner Set|99|C|{G}|Creature - Merfolk Warrior|1|1|{3}{g}: Put a +1/+1 counter on Jungle Delver.|
+Knight's Pledge|Arena Beginner Set|12|C|{1}{W}|Enchantment - Aura|||Enchant creature$Enchanted creature gets +2/+2.|
+Krovikan Scoundrel|Arena Beginner Set|50|C|{1}{B}|Creature - Human Rogue|2|1||
+Leonin Warleader|Arena Beginner Set|13|R|{2}{W}{W}|Creature - Cat Soldier|4|4|Whenever Leonin Warleader attacks, create two 1/1 white Cat creature tokens with lifelink that are tapped and attacking.|
+Loxodon Line Breaker|Arena Beginner Set|14|C|{2}{W}|Creature - Elephant Soldier|3|2||
+Malakir Cullblade|Arena Beginner Set|51|U|{1}{B}|Creature - Vampire Warrior|1|1|Whenever a creature an opponent controls dies, put a +1/+1 counter on Malakir Cullblade.|
+Maniacal Rage|Arena Beginner Set|77|C|{1}{R}|Enchantment - Aura|||Enchant creature$Enchanted creature gets +2/+2 and can't block.|
+Molten Ravager|Arena Beginner Set|78|C|{2}{R}|Creature - Elemental|0|4|{R}: Molten Ravager gets +1/+0 until end of turn.|
+Moorland Inquisitor|Arena Beginner Set|15|C|{1}{W}|Creature - Human Soldier|2|2|{2}{W}: Moorland Inquisitor gains first strike until end of turn.|
+Murder|Arena Beginner Set|53|U|{1}{B}{B}|Instant|||Destroy target creature.|
+Nest Robber|Arena Beginner Set|79|C|{1}{R}|Creature - Dinosaur|2|1|Haste|
+Nightmare|Arena Beginner Set|54|R|{5}{B}|Creature - Nightmare Horse|*|*|Flying$Nightmare's power and toughness are each equal to the number of Swamps you control.|
+Nimble Pilferer|Arena Beginner Set|55|C|{R}|Legendary Creature - Human Rogue|2|1|Flash	|
+Octoprophet|Arena Beginner Set|29|C|{3}{U}|Creature - Octopus|3|3|When Octoprophet enters the battlefield, scry 2.|
+Ogre Battledriver|Arena Beginner Set|80|R|{2}{R}{R}|Creature - Ogre Warrior|3|3|Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. <i>(It can attack and {tap} this turn.)</i>|
+Overflowing Insight|Arena Beginner Set|30|R|{4}{U}{U}{U}|Sorcery|||Target player draws seven cards.|
+Pacifism|Arena Beginner Set|16|C|{1}{W}|Enchantment - Aura|||Enchant creature$Enchanted creature can't attack or block.|
+Prized Unicorn|Arena Beginner Set|100|U|{3}{G}|Creature - Unicorn|2|2|All creatures able to block Prized Unicorn do so.|
+Rabid Bite|Arena Beginner Set|101|C|{1}{G}|Sorcery|||Target creature you control deals damage equal to its power to target creature you don't control.|
+Raging Goblin|Arena Beginner Set|81|C|{R}|Creature - Goblin Berserker|1|1|Haste <i>(This creature can attack and {T} as soon as it comes under your control.)</i>|
+Raid Bombardment|Arena Beginner Set|82|U|{2}{R}|Enchantment|||Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to defending player.|
+Raise Dead|Arena Beginner Set|56|C|{B}|Sorcery|||Return target creature card from your graveyard to your hand.|
+Rampaging Brontodon|Arena Beginner Set|102|R|{5}{G}{G}|Creature - Dinosaur|7|7|Trample$Whenever Rampaging Brontodon attacks, it gets +1/+1 until end of turn for each land you control.|
+Reduce to Ashes|Arena Beginner Set|83|C|{4}{R}|Sorcery|||Reduce to Ashes deals 5 damage to target creature. If that creature would die this turn, exile it instead.|
+Riddlemaster Sphinx|Arena Beginner Set|31|R|{4}{U}{U}|Creature - Sphinx|5|5|Flying$When Riddlemaster Sphinx enters the battlefield, you may return target creature an opponent controls to its owner's hand.|
+Rise from the Grave|Arena Beginner Set|56b|U|{4}{B}|Sorcery|||Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.|
+River's Favor|Arena Beginner Set|32|C|{1}{R}|Enchantment - Aura|||Enchant creature$Enchanted creature gets +1/+1.|
+Rumbling Baloth|Arena Beginner Set|103|C|{2}{G}{G}|Creature - Beast|4|4||
+Sanctuary Cat|Arena Beginner Set|17|C|{W}|Creature - Cat|1|2||
+Sanitarium Skeleton|Arena Beginner Set|57|C|{B}|Creature - Skeleton|1|2|{2}{B}: Return Sanitarium Skeleton from your graveyard to your hand.|
+Savage Gorger|Arena Beginner Set|58|C|{1}{B}{B}|Creature - Vampire|1|1|Flying$At the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on Savage Gorger.|
+Scathe Zombies|Arena Beginner Set|59|C|{2}{B}|Creature - Zombie|2|2||
+Sengir Vampire|Arena Beginner Set|60|U|{3}{B}{B}|Creature - Vampire|4|4|Flying$Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.|
+Sentinel Spider|Arena Beginner Set|104|U|{3}{G}{G}|Creature - Spider|4|4|Vigilance$Reach|
+Serra Angel|Arena Beginner Set|18|U|{3}{W}{W}|Creature - Angel|4|4|Flying, vigilance|
+Shock|Arena Beginner Set|84|C|{R}|Instant|||Shock deals 2 damage to any target.|
+Shorecomber Crab|Arena Beginner Set|32a|C|{U}|Creature - Crab|0|4||
+Shrine Keeper|Arena Beginner Set|19|C|{W}{W}|Creature - Human Cleric|2|2||
+Siege Dragon|Arena Beginner Set|85|R|{5}{R}{R}|Creature - Dragon|5|5|Flying$When Siege Dragon enters the battlefield, destroy all Walls your opponents control.$Whenever Siege Dragon attacks, if defending player controls no Walls, it deals 2 damage to each creature without flying that player controls.|
+Skeleton Archer|Arena Beginner Set|61|C|{3}{B}|Creature - Skeleton Archer|3|3|When Skeleton Archer enters the battlefield, it deals 1 damage to any target.|
+Sleep|Arena Beginner Set|33|U|{2}{U}{U}|Sorcery|||Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.|
+Soulblade Djinn|Arena Beginner Set|34|R|{3}{U}{U}|Creature - Djinn|4|3|Flying$Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.|
+Soulhunter Rakshasa|Arena Beginner Set|62|R|{3}{B}{B}|Creature - Demon|5|5|Soulhunter Rakshasa can’t block.$When Soulhunter Rakshasa enters the battlefield, if you cast it from your hand, it deals 1 damage to target opponent for each Swamp you control.|
+Soulmender|Arena Beginner Set|20|C|{W}|Creature - Human Cleric|1|1|{T}: You gain 1 life.|
+Spiritual Guardian|Arena Beginner Set|21|C|{3}{W}{W}|Creature - Spirit|3|4|When Spiritual Guardian enters the battlefield, you gain 4 life.|
+Stony Strength|Arena Beginner Set|105|C|{G}|Instant|||Put a +1/+1 counter on target creature you control. Untap that creature.|
+Storm Strike|Arena Beginner Set|86|C|{R}|Instant|||Target creature gets +1/+0 and gains first strike until end of turn. Scry 1.|
+Sworn Guardian|Arena Beginner Set|35|C|{1}{U}|Creature - Merfolk Warrior|1|3||
+Tactical Advantage|Arena Beginner Set|22|C|{W}|Instant|||Target blocking or blocked creature you control gets +2/+2 until end of turn.|
+Titanic Growth|Arena Beginner Set|106|C|{1}{G}|Instant|||Target creature gets +4/+4 until end of turn.|
+Treetop Warden|Arena Beginner Set|107|C|{1}{G}|Creature - Elf Warrior|2|2||
+Typhoid Rats|Arena Beginner Set|63|C|{B}|Creature - Rat|1|1|Deathtouch|
+Unlikely Aid|Arena Beginner Set|64|C|{1}{B}|Instant|||Target creature gets +2/+0 and gains indestructible until end of turn.|
+Unsummon|Arena Beginner Set|36|C|{U}|Instant|||Return target creature to its owner's hand.|
+Vampire Opportunist|Arena Beginner Set|65|C|{1}{B}|Creature - Vampire|2|1|{6}{B}: Each opponent loses 2 life and you gain 2 life.|
+Volcanic Dragon|Arena Beginner Set|88|U|{4}{R}{R}|Creature - Dragon|4|4|Flying$Haste|
+Wall of Runes|Arena Beginner Set|37|C|{U}|Creature - Wall|0|4|Defender$When Wall of Runes enters the battlefield, scry 1.|
+Warden of Evos Isle|Arena Beginner Set|38|U|{2}{U}|Creature - Bird Wizard|2|2|Flying$Creature spells with flying you cast cost {1} less to cast.|
+Waterkin Shaman|Arena Beginner Set|39|C|{1}{U}|Creature - Elemental Shaman|2|1|Whenever a creature with flying enters the battlefield under your control, Waterkin Shaman gets +1/+1 until end of turn.|
+Waterknot|Arena Beginner Set|40|C|{1}{U}{U}|Enchantment - Aura|||Enchant creature$When Waterknot enters the battlefield, tap enchanted creature.$Enchanted creature doesn't untap during its controller's untap step.|
+Wildwood Patrol|Arena Beginner Set|108|C|{2}{G}|Creature - Centaur Scout|4|2|Trample|
+Windreader Sphinx|Arena Beginner Set|41|R|{5}{U}{U}|Creature - Sphinx|3|7|Flying$Whenever a creature with flying attacks, you may draw a card.|
+Windstorm Drake|Arena Beginner Set|42|U|{4}{U}|Creature - Drake|3|3|Flying$Other creatures you control with flying get +1/+0.|
+Winged Words|Arena Beginner Set|43|C|{2}{U}|Sorcery|||This spell costs {1} less to cast if you control a creature with flying.$Draw two cards.|
+Witch's Familiar|Arena Beginner Set|66|C|{2}{B}|Creature - Frog|2|3||
+Woodland Mystic|Arena Beginner Set|109|C|{1}{G}|Creature - Elf Druid|1|1|{T}: Add {G}.|
+World Shaper|Arena Beginner Set|110|R|{3}{G}|Creature - Merfolk Shaman|3|3|Whenever World Shaper attacks, you may mill three cards.$When World Shaper dies, return all land cards from your graveyard to the battlefield tapped.|
+Zephyr Gull|Arena Beginner Set|44|C|{U}|Creature - Bird|1|1||
