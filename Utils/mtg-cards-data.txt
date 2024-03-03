@@ -4324,12 +4324,12 @@ Silumgar's Scorn|Dragons of Tarkir|78|U|{U}{U}|Instant|||As an additional cost t
 Skywise Teachings|Dragons of Tarkir|79|U|{3}{U}|Enchantment|||Whenever you cast a noncreature spell, you may pay {1}{U}. If you do, put a 2/2 blue Djinn Monk creature token with flying onto the battlefield.|
 Stratus Dancer|Dragons of Tarkir|80|R|{1}{U}|Creature - Djinn Monk|2|1|Flying$Megamorph {1}{U} <i>You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time from its megamorph cost and put a +1/+1 counter on it.)</i>|
 Taigam's Strike|Dragons of Tarkir|81|C|{3}{U}|Sorcery|||Target creature gets +2/+0 until end of turn and can't be blocked this turn.$Rebound <i>(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</i>|
-Updraft Elemental|Dragons of Tarkir|82|C|{2}{U}|Creature - Elemental|1|4|Flying||
+Updraft Elemental|Dragons of Tarkir|82|C|{2}{U}|Creature - Elemental|1|4|Flying|
 Void Squall|Dragons of Tarkir|83|U|{4}{U}|Sorcery|||Return target nonland permanent to its owner's hand.$Rebound <i>(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</i>|
 Youthful Scholar|Dragons of Tarkir|84|U|{3}{U}|Creature - Human Wizard|2|2|When Youthful Scholar dies, draw two cards.|
 Zephyr Scribe|Dragons of Tarkir|85|C|{2}{U}|Creature - Human Monk|2|1|{U}, {T}: Draw a card, then discard a card.$Whenever you cast a noncreature spell, untap Zephyr Scribe.|
 Acid-Spewer Dragon|Dragons of Tarkir|86|U|{5}{B}|Creature - Dragon|3|3|Flying, deathtouch$Megamorph {5}{B}{B} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)</i>$When Acid-Spewer Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.|
-Ambuscade Shaman|Dragons of Tarkir|87|U}{2}{B}|Creature - Orc Shaman|2|2|Whenever Ambuscade Shaman or another creature enters the battlefield under your control, that creature gets +2/+2 until end of turn.$Dash {3}{B} <i>(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)</i>|
+Ambuscade Shaman|Dragons of Tarkir|87|U|{2}{B}|Creature - Orc Shaman|2|2|Whenever Ambuscade Shaman or another creature enters the battlefield under your control, that creature gets +2/+2 until end of turn.$Dash {3}{B} <i>(You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)</i>|
 Blood-Chin Fanatic|Dragons of Tarkir|88|R|{1}{B}{B}|Creature - Orc Warrior|3|3|{1}{B}, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.|
 Blood-Chin Rager|Dragons of Tarkir|89|U|{1}{B}|Creature - Human Warrior|2|2|Whenever Blood-Chin Rager attacks, each Warrior creature you control can't be blocked this turn except by two or more creatures.|
 Butcher's Glee|Dragons of Tarkir|90|C|{2}{B}|Instant|||Target creature gets +3/+0 and gains lifelink until end of turn. Regenerate it. <i>(Damage dealt by a creature with lifelink also causes its controller to gain that much life.)</i>|
@@ -4365,7 +4365,7 @@ Sibsig Icebreakers|Dragons of Tarkir|119|C|{2}{B}|Creature - Zombie|2|3|When Sib
 Sidisi, Undead Vizier|Dragons of Tarkir|120|R|{3}{B}{B}|Legendary Creature - Zombie Naga|4|6|Deathtouch$Exploit <i>(When this creature enters the battlefield, you may sacrifice a creature.)</i>$When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library.|
 Silumgar Assassin|Dragons of Tarkir|121|R|{1}{B}|Creature - Human Assassin|2|1|Creatures with power greater than Silumgar Assassin's power can't block it.$Megamorph {2}{B} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up at any time for its megamorph cost and put a +1/+1 counter on it.)</i>$When Silumgar Assassin is turned face up, destroy target creature with power 3 or less an opponent controls.|
 Silumgar Butcher|Dragons of Tarkir|122|C|{4}{B}|Creature - Zombie Djinn|3|3|Exploit <i>(When this creature enters the battlefield, you may sacrifice a creature.)</i>$When Silumgar Butcher exploits a creature, target creature gets -3/-3 until end of turn.|
-Ukud Cobra|Dragons of Tarkir|123|U|{3}{B}|Creature - Snake|2|5|Deathtough||
+Ukud Cobra|Dragons of Tarkir|123|U|{3}{B}|Creature - Snake|2|5|Deathtouch|
 Ultimate Price|Dragons of Tarkir|124|U|{1}{B}|Instant|||Destroy target monocolored creature.|
 Virulent Plague|Dragons of Tarkir|125|U|{2}{B}|Enchantment|||Creature tokens get -2/-2|
 Vulturous Aven|Dragons of Tarkir|126|C|{3}{B}|Creature - Bird Shaman|2|3|Flying$Exploit <i>(When this creature enters the battlefield, you may sacrifice a creature.)</i>$When Vulturous Aven explots a creature, you draw two cards and you lose 2 life.|
@@ -5603,7 +5603,7 @@ Woodborn Behemoth|Duel Decks: Nissa vs. Ob Nixilis|26|U|{3}{G}{G}|Creature - Ele
 Fertile Thicket|Duel Decks: Nissa vs. Ob Nixilis|27|C||Land|||Fertile Thicket enters the battlefield tapped.$When Fertile Thicket enters the battlefield, you may look at the top five cards of your library. If you do, reveal up to one basic land card from among them, then put that card on top of your library and the rest on the bottom in any order.${T}: Add {G}.|
 Khalni Garden|Duel Decks: Nissa vs. Ob Nixilis|28|C||Land|||Khalni Garden enters the battlefield tapped.$When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.${tap}: Add {G}.|
 Mosswort Bridge|Duel Decks: Nissa vs. Ob Nixilis|29|R||Land|||Hideaway <i>(This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)</i>${tap}: Add {G}.${G}, {tap}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.|
-Treetop Village|Duel Decks: Nissa vs. Ob Nixilis|30|U|||Land|||Treetop Village enters the battlefield tapped.${tap}: Add {G}.${1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. <i>(If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>|
+Treetop Village|Duel Decks: Nissa vs. Ob Nixilis|30|U||Land|||Treetop Village enters the battlefield tapped.${tap}: Add {G}.${1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. <i>(If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>|
 Forest|Duel Decks: Nissa vs. Ob Nixilis|31|L||Basic Land - Forest|||G|
 Forest|Duel Decks: Nissa vs. Ob Nixilis|32|L||Basic Land - Forest|||G|
 Forest|Duel Decks: Nissa vs. Ob Nixilis|33|L||Basic Land - Forest|||G|
@@ -7930,13 +7930,13 @@ Whipcorder|Friday Night Magic|40|U|{W}{W}|Creature   Human Soldier Rebel|2|2|{W}
 Sparksmith|Friday Night Magic|41|U|{1}{R}|Creature   Goblin|1|1|{tap}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.|
 Krosan Tusker|Friday Night Magic|42|U|{5}{G}{G}|Creature   Boar Beast|6|5|Cycling {2}{G} <i>({2}{G}, Discard this card: Draw a card.)</i>$When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.|
 Withered Wretch|Friday Night Magic|43|U|{B}{B}|Creature   Zombie Cleric|2|2|{1}: Exile target card from a graveyard.|
-Willbender|Friday Night Magic|44|U|{1}{U}|Creature   Human Wizard|Morph {1}{U} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>$When Willbender is turned face up, change the target of target spell or ability with a single target.|
+Willbender|Friday Night Magic|44|U|{1}{U}|Creature   Human Wizard|1|2|Morph {1}{U} <i>(You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</i>$When Willbender is turned face up, change the target of target spell or ability with a single target.|
 Slice and Dice|Friday Night Magic|45|U|{4}{R}{R}|Sorcery|||Slice and Dice deals 4 damage to each creature.$Cycling {2}{R} <i>({2}{R}, Discard this card: Draw a card.)</i>$When you cycle Slice and Dice, you may have it deal 1 damage to each creature.|
 Silver Knight|Friday Night Magic|46|U|{W}{W}|Creature   Human Knight|2|2|First strike$Protection from red|
 Krosan Warchief|Friday Night Magic|47|U|{2}{G}|Creature   Beast|2|2|Beast spells you cast cost {1} less to cast.${1}{G}: Regenerate target Beast.|
 Lightning Rift|Friday Night Magic|48|U|{1}{R}|Enchantment|||Whenever a player cycles a card, you may pay {1}. If you do, Lightning Rift deals 2 damage to any target.|
 Carrion Feeder|Friday Night Magic|49|U|{B}|Creature   Zombie|1|1|Carrion Feeder can't block.$acrifice a creature: Put a +1/+1 counter on Carrion Feeder.|
-Treetop Village|Friday Night Magic|50|U|||Land|||Treetop Village enters the battlefield tapped.${tap}: Add {G}.${1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. <i>(If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>|
+Treetop Village|Friday Night Magic|50|U||Land|||Treetop Village enters the battlefield tapped.${tap}: Add {G}.${1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. <i>(If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)</i>|
 Accumulated Knowledge|Friday Night Magic|51|U|{1}{U}|Instant|||Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.|
 Avalanche Riders|Friday Night Magic|52|U|{3}{R}|Creature   Human Nomad|2|2|Haste$Echo {3}{R} <i>(At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)</i>$When Avalanche Riders enters the battlefield, destroy target land.|
 Reanimate|Friday Night Magic|53|U|{B}|Sorcery|||Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.|
@@ -8048,7 +8048,7 @@ Judge's Familiar|Friday Night Magic|156|U|{WU}|Creature - Bird|1|1|Flying$Sacrif
 Izzet Charm|Friday Night Magic|157|U|{U}{R}|Instant|||Choose one   Counter target noncreature spell unless its controller pays {2}; or Izzet Charm deals 2 damage to target creature; or draw two cards, then discard two cards.|
 Rakdos Cackler|Friday Night Magic|158|U|{BR}|Creature - Devil|1|1|Unleash <i>(You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)</i>|
 Dimir Charm|Friday Night Magic|159|U|{U}{B}|Instant|||Choose one   Counter target sorcery spell; or destroy target creature with power 2 or less; or look at the top three cards of target player's library, then put one back and the rest into that player's graveyard.|
-Experiment One|Friday Night Magic|160|U|{G}|Creature - Human Oooze|1|1|Evolve <i>(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</i>|Remove two +1/+1 counters from Experiment One: Regenerate Experiment One.|
+Experiment One|Friday Night Magic|160|U|{G}|Creature - Human Oooze|1|1|Evolve <i>(Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)</i>$Remove two +1/+1 counters from Experiment One: Regenerate Experiment One.|
 Ghor-Clan Rampager|Friday Night Magic|161|U|{2}{R}{G}|Creature - Beast|4|4|Trample$Bloodrush   {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.|
 Grisly Salvage|Friday Night Magic|162|U|{B}{G}|Instant|||Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.|
 Sin COllector|Friday Night Magic|163|U|{1}{W}{B}|Creature - Human Cleric|2|1|When Sin Collector enters the battlefield, target opponent reveals their hand. You choose an instant or sorcery card from it and exile that card.|
@@ -8229,7 +8229,7 @@ Fact or Fiction|From the Vault: Twenty|9|M|{3}{U}|Instant|||	Reveal the top five
 Chainer's Edict|From the Vault: Twenty|10|M|{1}{B}|Sorcery|||Target player sacrifices a creature.$Flashback {5}{B}{B} <i>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i>|
 Akroma's Vengeance|From the Vault: Twenty|11|M|{4}{W}{W}|Sorcery|||Destroy all artifacts, creatures, and enchantments.$Cycling {3} <i>({3}, Discard this card: Draw a card.)<i>|
 Gilded Lotus|From the Vault: Twenty|12|M|{5}|Artifact|||{T}: Add three mana of any one color.|
-Ink-Eyes, Servant of Oni|From the Vault: Twenty|13|M|{4}{B}{B}|Legendary Creature - Rat Ninja|5|4|Ninjutsu {3}{B}{B} <i>({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i>|Whenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.${1}{B}: Regenerate Ink-Eyes.|
+Ink-Eyes, Servant of Oni|From the Vault: Twenty|13|M|{4}{B}{B}|Legendary Creature - Rat Ninja|5|4|Ninjutsu {3}{B}{B} <i>({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i>$Whenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.${1}{B}: Regenerate Ink-Eyes.|
 Char|From the Vault: Twenty|14|M|{2}{R}|Instant|||Char deals 4 damage to any target and 2 damage to you.|
 Venser, Shaper Savant|From the Vault: Twenty|15|M|{2}{U}{U}|Legendary Creature - Human Wizard|2|2|Flash <i>(You may cast this spell any time you could cast an instant.)</i>$When Venser, Shaper Savant enters the battlefield, return target spell or permanent to its owner's hand.|
 Chameleon Colossus|From the Vault: Twenty|16|M|{2}{G}{G}|Creature - Shapeshifter|4|4|Changeling <i>(This card is every creature type at all times.)<i>$Protection from black${2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.|
@@ -20118,7 +20118,7 @@ Grim Lavamancer|Premium Deck Series: Fire & Lightning|1|R|{R}|Creature - Human W
 Jackal Pup|Premium Deck Series: Fire & Lightning|2|U|{R}|Creature - Hound|2|1|Whenever Jackal Pup is dealt damage, it deals that much damage to you.|
 Mogg Fanatic|Premium Deck Series: Fire & Lightning|3|U|{R}|Creature - Goblin|1|1|Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to any target.|
 Spark Elemental|Premium Deck Series: Fire & Lightning|4|U|{R}|Creature - Elemental|3|1|Trample, haste <i>(If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)</i>$At the beginning of the end step, sacrifice Spark Elemental.|
-Figure of Destiny|Premium Deck Series: Fire & Lightning|5|R|{RW}|Creature - Kithkin|1|1|{RW}: Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.${RW}{RW}{RW}: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4.${RW}{RW}{RW}{RW}{RW}{RW}: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike.|Hellspark Elemental|Premium Deck Series: Fire & Lightning|6|U|{1}{R}|Creature - Elemental|3|1|
+Figure of Destiny|Premium Deck Series: Fire & Lightning|5|R|{RW}|Creature - Kithkin|1|1|{RW}: Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.${RW}{RW}{RW}: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4.${RW}{RW}{RW}{RW}{RW}{RW}: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike.|
 Hellspark Elemental|Premium Deck Series: Fire & Lightning|6|U|{1}{R}|Creature - Elemental|3|1|Trample, haste$At the beginning of the end step, sacrifice Hellspark Elemental.$Unearth {1}{R} <i>({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>|
 Keldon Marauders|Premium Deck Series: Fire & Lightning|7|C|{1}{R}|Creature - Human Warrior|3|3|Vanishing 2 <i>(This permanent enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</i>$When Keldon Marauders enters the battlefield or leaves the battlefield, it deals 1 damage to target player.|
 Mogg Flunkies|Premium Deck Series: Fire & Lightning|8|C|{1}{R}|Creature - Goblin|3|3|Mogg Flunkies can't attack or block alone.|
@@ -24112,7 +24112,7 @@ Craven Giant|Tempest Remastered|128|C|{2}{R}|Creature - Giant|4|1|Craven Giant c
 Deadshot|Tempest Remastered|129|U|{3}{R}|Sorcery|||Tap target creature. It deals damage equal to its power to another target creature.|
 Fanning the Flames|Tempest Remastered|130|R|{X}{R}{R}|Sorcery|||Buyback {3} <i>(You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)</i>$Fanning the Flames deals X damage to any target.|
 Flame Wave|Tempest Remastered|131|R|{3}{R}{R}{R}{R}|Sorcery|||Flame Wave deals 4 damage to target player and each creature they control.|
-Flowstone Blade|Tempest Remastered|132|C|{R}|Enchantment - Aura|||Enchant creature|||{R}: Enchanted creature gets +1/-1 until end of turn.|
+Flowstone Blade|Tempest Remastered|132|C|{R}|Enchantment - Aura|||Enchant creature${R}: Enchanted creature gets +1/-1 until end of turn.|
 Flowstone Mauler|Tempest Remastered|133|U|{4}{R}{R}|Creature - Beast|4|5|Trample${R}: Flowstone Mauler gets +1/-1 until end of turn.|
 Flowstone Wyvern|Tempest Remastered|134|U|{3}{R}{R}|Creature - Drake|3|3|Flying${R}: Flowstone Wyvern gets +2/-2 until end of turn.|
 Furnace Brood|Tempest Remastered|135|C|{3}{R}|Creature - Elemental|3|3|{R}: Target creature can't be regenerated this turn.|
@@ -28897,7 +28897,7 @@ Latch Seeker|Game Day|18|U|{1}{U}{U}|Creature - Spirit|3|1|Latch Seeker can't be
 Killing Wave|Game Day|19|R|{X}{B}|Sorcery|||For each creature, its controller sacrifices it unless they pay X life.|
 Magmaquake|Game Day|20|R|{X}{R}{R}|Instant|||Magmaquake deals X damage to each creature without flying and each planeswalker.|
 Mwonvuli Beast Tracker|Game Day|21|U|{1}{G}{G}|Creature - Human Scout|2|1|When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle your library and put that card on top of it.|
-Cryptborn Horror|Game Day|22|R|{1}{BR}{BR}||Creature - Horror|0|0|Trample$Cryptborn Horror enters the battlefield with X +1/+1 counters on it, where X is the total life lost by your opponents this turn.|
+Cryptborn Horror|Game Day|22|R|{1}{BR}{BR}|Creature - Horror|0|0|Trample$Cryptborn Horror enters the battlefield with X +1/+1 counters on it, where X is the total life lost by your opponents this turn.|
 Dryad Militant|Game Day|23|U|{GW}|Creature - Dryad Soldier|2|1|If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.|
 Firemane Avenger|Game Day|24|R|{2}{W}{R}|Creature - Angel|3|3|Flying$Battalion   Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to any target and you gain 3 life.|
 Zameck Guildmage|Game Day|25|U|{U}{G}|Creature - Elf Wizard|2|2|{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.${G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.|
@@ -29335,7 +29335,7 @@ Hound of the Farbogs|Shadows over Innistrad|117|C|{4}{B}|Creature - Zombie Hound
 Indulgent Aristocrat|Shadows over Innistrad|118|U|{B}|Creature - Vampire|1|1|Lifelink${2}, Sacrifice a creature: Put a +1/+1 counter on each Vampire you control.|
 Kindly Stranger|Shadows over Innistrad|119a|U|{2}{B}|Creature - Human|2|3|<i>Delirium</i> &mdash; {2}{B}: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard.|
 Demon-Possessed Witch|Shadows over Innistrad|119b|U||Creature - Human Shaman|4|3|When this creature transforms into Demon-Possessed Witch, you may destroy target creature.|
-Liliana's Indignation|Shadows over Innistrad|120|U|{X}{B}|Sorcery|Put the top X cards of your library into your graveyard. Target player loses 2 life for each creature card put into your graveyard this way.|
+Liliana's Indignation|Shadows over Innistrad|120|U|{X}{B}|Sorcery|||Put the top X cards of your library into your graveyard. Target player loses 2 life for each creature card put into your graveyard this way.|
 Macabre Waltz|Shadows over Innistrad|121|C|{1}{B}|Sorcery|||Return up to two target creature cards from your graveyard to your hand, then discard a card.|
 Markov Dreadknight|Shadows over Innistrad|122|R|{3}{B}{B}|Creature - Vampire Knight|3|3|Flying${2}{B}, Discard a card: Put two +1/+1 counters on Markhov Dreadknight.|
 Merciless Resolve|Shadows over Innistrad|123|C|{2}{B}|Instant|||As an additional cost to cast Merciless Resolve, sacrifice a creature or land.$Draw two cards.|
@@ -31098,7 +31098,7 @@ Traitorous Instinct|Modern Masters 2017|114|C|{3}{R}|Sorcery|||Gain control of t
 Vithian Stinger|Modern Masters 2017|115|U|{2}{R}|Creature - Human Shaman|0|1|{T}: Vithian Stinger deals 1 damage to any target.$Unearth {1}{R} <i>({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</i>|
 Zealous Conscripts|Modern Masters 2017|116|R|{4}{R}|Creature - Human Warrior|3|3|Haste$When Zealous Conscripts enters the battlefield, gain control of target permanent until end of turn. Untap that permanent. It gains haste until end of turn.|
 Arachnus Spinner|Modern Masters 2017|117|U|{5}{G}|Creature - Spider|5|7|Reach$Tap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you seach your library this way, shuffle it.|
-Arachnus Web|Modern Masters 2017|118|C|{2}{G}|Enchant creature$Enchanted creature can't attack or block, and its activated abilities can't be activated.$At the beginning of the end step, if enchanted creature's power is 4 or greater, destroy Arachnus Web.|
+Arachnus Web|Modern Masters 2017|118|C|{2}{G}|Enchantment - Aura|||Enchant creature$Enchanted creature can't attack or block, and its activated abilities can't be activated.$At the beginning of the end step, if enchanted creature's power is 4 or greater, destroy Arachnus Web.|
 Avacyn's Pilgrim|Modern Masters 2017|119|C|{G}|Creature - Human Monk|1|1|{T}: Add {W}.|
 Baloth Cage Trap|Modern Masters 2017|120|U|{3}{G}{G}|Instant - Trap|||If an opponent had an artifact enter the battlefield under their control this turn, you may pay {1}{G} rather than pay Baloth Cage Trap's mana cost.$Create a 4/4 green Beast creature token.|
 Call of the Herd|Modern Masters 2017|121|R|{2}{G}|Sorcery|||Create a 3/3 green Elephant creature token.$Flashback {3}{G}|
@@ -31209,7 +31209,7 @@ Selesnya Signet|Modern Masters 2017|226|U|{2}|Artifact|||{1}, {T}: Add {G}{W}.|
 Simic Signet|Modern Masters 2017|227|U|{2}|Artifact|||{1}, {T}: Add {G}{U}.|
 Arcane Sanctum|Modern Masters 2017|228|U||Land|||Arcane Sanctum enters the battlefield tapped.${T}: Add {W}, {U}, or {B}.|
 Arid Mesa|Modern Masters 2017|229|R||Land|||{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.|
-Azorius Guildgate|Modern Masters 2017|230|C||Land - Gate||||Azorius Guildgate enters the battlefield tapped.${T}: Add {W} or {U}.|
+Azorius Guildgate|Modern Masters 2017|230|C||Land - Gate|||Azorius Guildgate enters the battlefield tapped.${T}: Add {W} or {U}.|
 Boros Guildgate|Modern Masters 2017|231|C||Land - Gate|||Boros Guildgate enters the battlefield tapped.${T}: Add {R} or {W}.|
 Cavern of Souls|Modern Masters 2017|232|M||Land|||As Cavern of Souls enters the battlefield, choose a creature type.${T}: Add {C}.${T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can't be countered.|
 Crumbling Necropolis|Modern Masters 2017|233|U||Land|||Crumbling Necropolis enters the battlefield tapped.${T}: Add {U}, {B}, or {R}.|
@@ -31463,7 +31463,7 @@ Fight|Amonkhet|220b|R|{3}{G}|Sorcery|||Target creature you control fights target
 Failure|Amonkhet|221a|R|{1}{U}|Instant|||Return target spell to its owner's hand.|
 Comply|Amonkhet|221b|R|{W}|Sorcery|||Aftermath$Choose a card name. Until your next turn, your opponents can't cast spells with the chosen name.|
 Rags|Amonkhet|222a|R|{2}{B}{B}|Sorcery|||All creatures get -2/-2 until end of turn.|
-Riches|Amonkhet|222b|R|{5}{U}{U}|Sorcery|Aftermath$Each opponent chooses a creature they control. You gain control of those creatures.|
+Riches|Amonkhet|222b|R|{5}{U}{U}|Sorcery|||Aftermath$Each opponent chooses a creature they control. You gain control of those creatures.|
 Cut|Amonkhet|223a|R|{1}{R}|Sorcery|||Cut deals 4 damage to target creature.|
 Ribbons|Amonkhet|223b|R|{X}{B}{B}|Sorcery|||Aftermath$Each opponent loses X life.|
 Heaven|Amonkhet|224a|R|{X}{G}|Instant|||Heaven deals X damage to each creature with flying.|
@@ -31793,7 +31793,7 @@ Thousand-Year Elixir|Commander Anthology|236|R|{3}|Artifact|||You may activate a
 Thunderstaff|Commander Anthology|237|U|{3}|Artifact|||As long as Thunderstaff is untapped, if a creature would deal combat damage to you, prevent 1 of that damage.${2}, {tap}: Attacking creatures get +1/+0 until end of turn.|
 Akoum Refuge|Commander Anthology|238|U||Land|||Akoum Refuge enters the battlefield tapped.$When Akoum Refuge enters the battlefield, you gain 1 life.${tap}: Add {B} or {R}.|
 Azorius Chancery|Commander Anthology|239|C||Land|||Azorius Chancery enters the battlefield tapped.$When Azorius Chancert enters the battlefield, return a land you control to its owner's hand.${T}: Add {W}{U}.|
-Azorius Guildgate|Commander Anthology|240|C||Land - Gate||||Azorius Guildgate enters the battlefield tapped.${T}: Add {W} or {U}.|
+Azorius Guildgate|Commander Anthology|240|C||Land - Gate|||Azorius Guildgate enters the battlefield tapped.${T}: Add {W} or {U}.|
 Bant Panorama|Commander Anthology|241|C||Land|||{tap}: Add {C}.${1}, {tap}, Sacrifice Bant Panorama: Search your library for a basic Forest, Plains, or Island card and put it onto the battlefield tapped. Then shuffle your library.|
 Barren Moor|Commander Anthology|242|C||Land|||Barren Moor enters the battlefield tapped.${tap}: Add {B}.$Cycling {B} <i>({B}, Discard this card: Draw a card.)</i>|
 Bojuka Bog|Commander Anthology|243|C||Land|||Bojuka Bog enters the battlefield tapped.$When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.${tap}: Add {B}.|
@@ -31885,7 +31885,7 @@ Hyena Umbra|Planechase Anthology|8|C|{W}|Enchantment|||Enchant creature$Enchante
 Kor Spiritdancer|Planechase Anthology|9|R|{1}{W}|Creature - Kor Wizard|0|2|Kor Spiritdancer gets +2/+2 for each Aura attached to it.$Whenever you cast an Aura spell, you may draw a card.|
 Mammoth Umbra|Planechase Anthology|10|U|{4}{W}|Enchantment - Aura|||Enchant creature$Enchanted creature gets +3/+3 and has vigilance.$Totem armor|
 Sigil of the Empty Throne|Planechase Anthology|11|R|{3}{W}{W}|Enchantment|||Whenever you cast an enchantment spell, create a 4/4 white Angel creature token with flying.|
-Spirit Mantle|Planechase Anthology|12|U||{1}{W}|Enchantment - Aura|||Enchant creature$Enchanted creature gets +1/+1 and has protection from creatures.|
+Spirit Mantle|Planechase Anthology|12|U|{1}{W}|Enchantment - Aura|||Enchant creature$Enchanted creature gets +1/+1 and has protection from creatures.|
 Three Dreams|Planechase Anthology|13|R|{4}{W}|Sorcery|||Search your library for up to three Aura cards with different names, reveal them, and put them into your hand. Then shuffle your library.|
 Augury Owl|Planechase Anthology|14|C|{1}{U}|Creature - Bird|1|1|Flying$When Augury Owl enters the battlefield, scry 3.|
 Cancel|Planechase Anthology|15|C|{1}{U}{U}|Instant|||Counter target spell.|
@@ -31947,7 +31947,7 @@ Nullmage Advocate|Planechase Anthology|70|C|{2}{G}|Creature - Insect Druid|2|3|{
 Ondu Giant|Planechase Anthology|71|C|{3}{G}|Creature - Giant Druid|2|4|When Ondu Giant enters the battlefield, you may search you library for a basic land card, put it onto the battlefield tapped, then shuffle your library.|
 Overrun|Planechase Anthology|72|U|{2}{G}{G}{G}|Sorcery|||Creatures you control get +3/+3 and gain trample until end of turn.|
 Penumbra Spider|Planechase Anthology|73|C|{2}{G}{G}|Creature - Spider|2|4|Reach$When Penumbra Spider dies, create a 2/4 black Spider creature token with reach.|
-Predatory Urge|Planechase Anthology|74|R|{3}{G}|Enchantment - Aura|||Enchantment - Aura|||Enchant creature$Enchanted creature has "{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature."|
+Predatory Urge|Planechase Anthology|74|R|{3}{G}|Enchantment - Aura|||Enchant creature$Enchanted creature has "{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature."|
 Quiet Disrepair|Planechase Anthology|75|C|{1}{G}|Enchantment - Aura|||Enchant artifact or enchantment$At the beginning of your upkeep, choose one &mdash; Destroy enchanted permanent; or You gain 2 life.|
 Rancor|Planechase Anthology|76|C|{G}|Enchantment - Aura|||Enchant creature$Enchanted creature gets +2/+0 and has trample.$When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.|
 Silhana Ledgewalker|Planechase Anthology|77|C|{1}{G}|Creature - Elf Rogue|1|1|Hexproof$Silhana Ledgewalker can't be blocked except by creature with flying.|
@@ -32298,7 +32298,7 @@ Nomad Outpost|Commander 2017 Edition|265|U||Land|||Nomad Outpost enters the batt
 Opal Palace|Commander 2017 Edition|266|C||Land|||{T}: Add {C}.${1}, {T}: Add one mana of any color in your commander's color identity. If you spend this mana to cast your commander, it enters the battlefield with a number of additional +1/+1 counters on it equal to the number of times it's been cast from the command zone this game.|
 Opulent Palace|Commander 2017 Edition|267|U||Land|||Opulant Palace enters the battlefield tapped.${T}: Add {B}, {G}, or {U}.|
 Orzhov Basilica|Commander 2017 Edition|268|C||Land|||Orzhov Basilica enters the battlefield tapped.$When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.${T}: Add {W}{B}.|
-Orzhov Guildgate|Commander 2017 Edition|269|C||Land - Gate||||Orzhov Guildgate enters the battlefield tapped.${T}: Add {W} or {B}.|
+Orzhov Guildgate|Commander 2017 Edition|269|C||Land - Gate|||Orzhov Guildgate enters the battlefield tapped.${T}: Add {W} or {B}.|
 Rakdos Carnarium|Commander 2017 Edition|270|C||Land|||Rakdos Carnarium enters the battlefield tapped.$When Rakdos Carnarium enters the battlefield, return a land you control to its owner's hand.${T: Add {B}{R}.|
 Rakdos Guildgate|Commander 2017 Edition|271|C||Land - Gate|||Rakdos Guildgate enters the battlefield tapped.${T}: Add {B} or {R}.|
 Rogue's Passage|Commander 2017 Edition|272|U||Land|||{T}: Add {C}.${4}, {T}: Target creature can't be blocked this turn.|
@@ -32674,7 +32674,7 @@ Adanto Vanguard|Ixalan|1|U|{1}{W}|Creature - Vampire Soldier|1|1|As long as Adan
 Ashes of the Abhorrent|Ixalan|2|R|{1}{W}|Enchantment|||Players can't cast spells from graveyards or activate abilities from graveyards.$Whenever a creature dies, you gain 1 life.|
 Axis of Mortality|Ixalan|3|M|{4}{W}{W}|Enchantment|||At the beginning of your upkeep, you may have two target players exchange life totals.|
 Bellowing Aegisaur|Ixalan|4|U|{5}{W}|Creature - Dinosaur|3|5|Enrage - Whenever Bellowing Aegisaur is dealt damage, put a +1/+1 counter on each other creature you control.|
-Bishop of Rebirth|Ixalan|5|R|Creature - Vampire Cleric|3|4|Vigilance$Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.|
+Bishop of Rebirth|Ixalan|5|R|{3}{W}{W}|Creature - Vampire Cleric|3|4|Vigilance$Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.|
 Bishop's Soldier|Ixalan|6|C|{1}{W}|Creature - Vampire Soldier|2|2|Lifelink|
 Bright Reprisal|Ixalan|7|U|{4}{W}|Instant|||Destroy target attacking creature.$Draw a card.|
 Demystify|Ixalan|8|C|{W}|Instant|||Destroy target enchantment.|
@@ -32682,7 +32682,7 @@ Duskborne Skymarcher|Ixalan|9|U|{W}|Creature - Vampire Cleric|1|1|Flying${W}, {T
 Emissary of Sunrise|Ixalan|10|U|{2}{W}|Creature - Human Cleric|2|1|First strike$When Emissary of Sunrise enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)|
 Encampment Keeper|Ixalan|11|C|{W}|Creature - Hound|1|1|First strike${7}{W}, Sacrifice Encampment Keeper: Creatures you control get +2/+2 until end of turn.|
 Glorifier of Dusk|Ixalan|12|U|{3}{W}{W}|Creature - Vampire Soldier|4|4|Pay 2 life: Glorifier of Dusk gains flying until end of turn.$Pay 2 life: Glorifier of Dusk gains vigilance until end of turn.|
-Goring Ceratops|Ixalan|13|R|Creature - Dinosaur|3|3|Double strike$Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn.|
+Goring Ceratops|Ixalan|13|R|{5}{W}{W}|Creature - Dinosaur|3|3|Double strike$Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn.|
 Imperial Aerosaur|Ixalan|14|U|{3}{W}|Creature - Dinosaur|3|3|Flying$When Imperial Aerosaur enters the battlefield, another target creature you control gets +1/+1 and gains flying until end of turn.|
 Imperial Lancer|Ixalan|15|U|{W}|Creature - Human Knight|1|1|Imperial Lancer has double strike as long as you control a Dinosaur.|
 Inspiring Cleric|Ixalan|16|U|{2}{W}|Creature - Vampire Cleric|3|2|When Inspiring Cleric enters the battlefield, you gain 4 life.|
@@ -33397,10 +33397,10 @@ Goblin Tutor|Unglued|45|U|{R}|Instant|||Roll a six-sided die. If you roll a 1, G
 Jalum Grifter|Unglued|47|R|{3}{R}{R}|Legendary Creature - Devil|3|5| {1}{R}, {T}: Shuffle Jalum Grifter and two lands you control face down. Target opponent chooses one of those cards. Turn the cards face up. If the opponent chose Jalum Grifter, sacrifice it. Otherwise, destroy target permanent.|
 Krazy Kow|Unglued|48|C|{3}{R}|Creature - Cow|3|3| At the beginning of your upkeep, roll a six-sided die. If you a roll a 1, sacrifice Krazy Kow and it deals 3 damage to each creature and each player.|
 Ricochet|Unglued|50|U|{R}|Enchantment|||Whenever a player casts a spell that targets a single player, each player rolls a six-sided die. Change the target of that spell to the player with the lowest result. Reroll to break ties, if necessary.|
-Spark Fiend|Unglued|51|R|{4}{R}|Creature - Beast, When Spark Fiend enters the battlefield, roll two six-sided dice. If you rolled 2, 3, or 12, sacrifice Spark Fiend. If you rolled 7 or 11, don't roll dice for Spark Fiend during any of your following upkeeps. If you rolled any other total, note that total. At the beginning of your upkeep, roll two six-sided dice. If you rolled 7, sacrifice Spark Fiend. If you roll the noted total, don't roll dice for Spark Fiend during any of your following upkeeps. Otherwise, do nothing.|
+Spark Fiend|Unglued|51|R|{4}{R}|Creature - Beast|5|6| When Spark Fiend enters the battlefield, roll two six-sided dice. If you rolled 2, 3, or 12, sacrifice Spark Fiend. If you rolled 7 or 11, don't roll dice for Spark Fiend during any of your following upkeeps. If you rolled any other total, note that total. At the beginning of your upkeep, roll two six-sided dice. If you rolled 7, sacrifice Spark Fiend. If you roll the noted total, don't roll dice for Spark Fiend during any of your following upkeeps. Otherwise, do nothing.|
 Strategy, Schmategy|Unglued|52|R|{1}{R}|Sorcery|||Roll a six-sided die. Strategy, Schmategy has the indicated effect. 1 - Do nothing. 2 - Destroy all artifacts. 3 - Destroy all lands. 4 - Strategy, Schmategy deals 3 damage to each creature and each player. 5 - Each player discards their hand and draws seven cards. 6 - Repeat this process two more times.|
 The Ultimate Nightmare of Wizards of the Coast Customer Service|Unglued|53|U|{X}{Y}{Z}{R}{R}|Sorcery|||The Ultimate Nightmare of Wizards of the Coast® Customer Service deals X damage to each of Y target creatures and Z target players.|
-Elvish Impersonators|Unglued|56|C|{3}{G}|Creature - Elves, */*, As Elvish Impersonators enters the battlefield, roll a six-sided die twice. Its base power becomes the first result and its base toughness becomes the second result.|
+Elvish Impersonators|Unglued|56|C|{3}{G}|Creature - Elves|*|*| As Elvish Impersonators enters the battlefield, roll a six-sided die twice. Its base power becomes the first result and its base toughness becomes the second result.|
 Flock of Rabid Sheep|Unglued|57|U|{X}{G}{G}|Sorcery|||Flip X coins. For each flip you win, create a 2/2 green Sheep creature token named Rabid Sheep.|
 Free-Range Chicken|Unglued|58|C|{3}{G}|Creature - Bird|3|3| {1}{G}: Roll two six-sided dice. If both results are the same, Free-Range Chicken gets +X/+X until end of turn, where X is that result. If the total of those results is equal to any other total you have rolled this turn for Free-Range Chicken, sacrifice it. (For example, if you roll two 3s, Free-Range Chicken gets +3/+3. If you roll a total of 6 for Free-Range Chicken later that turn, sacrifice it.)|
 Gerrymandering|Unglued|59|U|{2}{G}|Sorcery|||Exile all lands. Give each player a number of those cards chosen at random equal to the number of those cards the player controlled. Each player returns those cards to the battlefield under that player's control.|
@@ -52474,7 +52474,7 @@ Goblin Gang Leader|Arena Beginner Set|70|U|{2}{R}{R}|Creature - Goblin Warrior|2
 Goblin Gathering|Arena Beginner Set|71|C|{2}{R}|Sorcery|||Create a number of 1/1 red Goblin creature tokens equal to two plus the number of cards named Goblin Gathering in your graveyard.|
 Goblin Trashmaster|Arena Beginner Set|72|R|{2}{R}{R}|Creature - Goblin Warrior|3|3|Other Goblins you control get +1/+1.$Sacrifice a Goblin: Destroy target artifact.|
 Goblin Tunneler|Arena Beginner Set|73|C|{1}{R}|Creature - Goblin Rogue|1|1|{T}: Target creature with power 2 or less can't be blocked this turn.|
-Goring Ceratops|Arena Beginner Set|8|R|Creature - Dinosaur|3|3|Double strike$Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn.|
+Goring Ceratops|Arena Beginner Set|8|R|{5}{W}{W}|Creature - Dinosaur|3|3|Double strike$Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn.|
 Greenwood Sentinel|Arena Beginner Set|97|C|{1}{G}|Creature - Elf Scout|2|2|Vigilance|
 Hurloon Minotaur|Arena Beginner Set|74|C|{1}{R}{R}|Creature - Minotaur|2|3||
 Ilysian Caryatid|Arena Beginner Set|98|C|{1}{G}|Creature - Plant|1|1|{T}: Add one mana of any color. If you control a creature with power 4 or greater, add two mana of any one color instead.|
