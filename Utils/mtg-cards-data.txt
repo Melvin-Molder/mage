@@ -52396,6 +52396,7 @@ Fblthp, Lost on the Range|Outlaws of Thunder Junction|48|R|{1}{U}{U}|Legendary C
 Tinybones, the Pickpocket|Outlaws of Thunder Junction|109|M|{B}|Legendary Creature - Skeleton Rogue|1|1|Deathtouch$Whenever Tinybones, the Pickpocket deals combat damage to a player, you may cast target nonland permanent card from that player's graveyard, and mana of any type can be spent to cast that spell.|
 Hell to Pay|Outlaws of Thunder Junction|126|R|{X}{R}|Sorcery|||Hell to Pay deals X damage to target creature. Create a number of tapped Treasure tokens equal to the amount of excess damage dealt to that creature this way.|
 Oko, the Ringleader|Outlaws of Thunder Junction|223|M|{2}{G}{U}|Legendary Planeswalker - Oko|3|At the beginning of combat on your turn, Oko, the Ringleader becomes a copy of up to one target creature you control until end of turn, except he has hexproof.$+1: Draw two cards. If you've committed a crime this turn, discard a card. Otherwise, discard two cards.$-1: Create a 3/3 green Elk creature token.$-5: For each other nonland permanent you control, create a token that's a copy of that permanent.|
+Lavaspur Boots|Outlaws of Thunder Junction|243|U|{1}|Artifact - Equipment|||Equipped creature gets +1/+0 and has haste and ward {1}.$Equip {1}|
 Plains|Outlaws of Thunder Junction|272|C||Basic Land - Plains|||({T}: Add {W}.)|
 Island|Outlaws of Thunder Junction|273|C||Basic Land - Island|||({T}: Add {U}.)|
 Swamp|Outlaws of Thunder Junction|274|C||Basic Land - Swamp|||({T}: Add {B}.)|
