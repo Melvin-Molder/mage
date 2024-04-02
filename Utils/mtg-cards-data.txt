@@ -52427,6 +52427,7 @@ Vengeful Townsfolk|Outlaws of Thunder Junction|37|C|{2}{W}|Creature - Human Citi
 Wanted Griffin|Outlaws of Thunder Junction|38|C|{3}{W}|Creature - Griffin|3|2|Flying$When Wanted Griffin dies, create a 1/1 red Mercenary creature token with "{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery."|
 Archmage's Newt|Outlaws of Thunder Junction|39|R|{1}{U}|Creature - Salamander Mount|2|2|Whenever Archmage's Newt deals combat damage to a player, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. That card gains flashback {0} until end of turn instead if Archmage's Newt is saddled.$Saddle 3|
 Canyon Crab|Outlaws of Thunder Junction|40|U|{1}{U}|Creature - Crab|0|5|{1}{U}: Canyon Crab gets +2/-2 until end of turn.$At the beginning of your end step, if you haven't cast a spell from your hand this turn, draw a card, then discard a card.|
+Daring Thunder-Thief|Outlaws of Thunder Junction|41|C|{3}{U}|Creature - Turtle Rogue|4|4|Flash$Daring Thunder-Thief enters the battlefield tapped.|
 Deepmuck Desperado|Outlaws of Thunder Junction|42|U|{2}{U}|Creature - Homarid Mercenary|2|4|Whenever you commit a crime, each opponent mills three cards. This ability triggers only once each turn.|
 Djinn of Fool's Fall|Outlaws of Thunder Junction|43|C|{4}{U}|Creature - Djinn|4|3|Flying$Plot {3}{U}|
 Double Down|Outlaws of Thunder Junction|44|M|{3}{U}|Enchantment|||Whenever you cast an outlaw spell, copy that spell.|
