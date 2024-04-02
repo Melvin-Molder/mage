@@ -52423,6 +52423,7 @@ Sheriff of Safe Passage|Outlaws of Thunder Junction|29|U|{2}{W}|Creature - Human
 Stagecoach Security|Outlaws of Thunder Junction|30|C|{4}{W}|Creature - Human Soldier|4|5|When Stagecoach Security enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.$Plot {3}{W}|
 Steer Clear|Outlaws of Thunder Junction|31|C|{W}|Instant|||Steer Clear deals 2 damage to target attacking or blocking creature. Steer Clear deals 4 damage to that creature instead if you controlled a Mount as you cast this spell.|
 Sterling Keykeeper|Outlaws of Thunder Junction|32|C|{1}{W}|Creature - Human Mercenary|2|2|{2}, {T}: Tap target non-Mount creature.|
+Sterling Supplier|Outlaws of Thunder Junction|33|C|{4}{W}|Creature - Bird Soldier|3|4|Flying$When Sterling Supplier enters the battlefield, put a +1/+1 counter on another target creature you control.|
 Thunder Lasso|Outlaws of Thunder Junction|35|U|{2}{W}|Artifact - Equipment|||When Thunder Lasso enters the battlefield, attach it to target creature you control.$Equipped creature gets +1/+1.$Whenever equipped creature attacks, tap target creature defending player controls.$Equip {2}|
 Trained Arynx|Outlaws of Thunder Junction|36|C|{1}{W}|Creature - Cat Beast Mount|3|1|Whenever Trained Arynx attacks while saddled, it gains first strike until end of turn. Scry 1.$Saddle 2|
 Vengeful Townsfolk|Outlaws of Thunder Junction|37|C|{2}{W}|Creature - Human Citizen|3|3|Whenever one or more other creatures you control die, put a +1/+1 counter on Vengeful Townsfolk.|
